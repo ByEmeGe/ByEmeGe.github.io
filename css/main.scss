@@ -77,6 +77,10 @@ $anim-speed: 0.3s;
 }
 // Import partials from `sass_dir` (defaults to `_sass`)
 
+p.post-meta{
+  color:#EF6C00 !important;
+}
+
 
 @import
 "../sass/base",
