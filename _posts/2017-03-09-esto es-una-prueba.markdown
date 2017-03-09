@@ -6,7 +6,7 @@ categories: actividade entroido
 author: Alba García
 ---
 
-![hero]({{ site.baseurl }}/assets/Carnaval.jpeg){:class="img-responsive post_image"}
+![hero]({{ site.baseurl }}/assets/Blog/2017/2/Carnaval.jpeg){:class="img-responsive post_image"}
 <br>
 Orbi porta bibendum augue. Praesent ultrices eros a tincidunt blandit. Mauris libero est, placerat a fermentum ut, volutpat nec nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque et turpis quis ligula finibus convallis. Nunc porta, orci sit amet pulvinar sodales, est tortor feugiat quam, in aliquet ex enim quis libero. Nullam tortor libero, dignissim non imperdiet ac, vulputate vel neque. Morbi at nisi risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc gravida suscipit nibh id fringilla. In feugiat lectus massa, semper condimentum lacus vestibulum quis. Nunc ac accumsan diam. Integer in risus consectetur, aliquam risus non, placerat ante. Curabitur ex lacus, luctus non euismod in, aliquet a lacus.
 
