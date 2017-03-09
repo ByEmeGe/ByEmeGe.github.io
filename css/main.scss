@@ -91,6 +91,10 @@ img.img-responsive.post_image{
   margin-bottom: 50px;
 }
 
+iframe{
+  width:100% !important;
+}
+
 @import
 "../sass/base",
 "../sass/cards",
