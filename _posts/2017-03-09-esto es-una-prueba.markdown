@@ -4,7 +4,6 @@ title:  "Esto es una prueba!"
 date:   2017-03-09 03:50:12 +0200
 categories: jekyll update
 author: Alba García
-image:{{ site.baseurl }}/assets/hero.png
 ---
 
 ![hero]({{ site.baseurl }}/assets/hero.png){:class="img-responsive post_image"}
