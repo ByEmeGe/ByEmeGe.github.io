@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Quen somos???
 permalink: /nos
 ---
 <div class="row">
@@ -19,7 +18,7 @@ permalink: /nos
              </ul>
          </div>
      </div>
-     
+
 <p>
    "Os Paxariños" é unha casa niño que nace baixo o plan de Casas niño da Xunta de Galicia. Atópase situada na
    localidade de Prado de Miño, no concello ourensán de Castrelo de Miño.
