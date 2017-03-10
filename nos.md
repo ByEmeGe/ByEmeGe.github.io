@@ -41,6 +41,10 @@ permalink: /nos
     toalliñas, cremas etc).
 </p>
 --------------------------------------------------------------------------------------------------------------------------------
+
+<p>
+    <h2>A Casa</h2>
+</p>
 <p>
     A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso
     sanitario.<br>    A principios de 2016 foi rehabilitada mantendo a súa distribución orixinal,con aseo e cociña,
