@@ -69,10 +69,10 @@ permalink: /nos
 <p>
     <div class="row">
         <div class="col-6">
-            <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0006.jpg" />
+            <img class="u-max-full-width" src="/assets/www/nos/casa2.jpeg" />
         </div>
         <div class="col-6">
-            <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0007.jpg" />
+            <img class="u-max-full-width" src="/assets/www/nos/casa3.jpeg" />
         </div>
     </div>
 </p>
@@ -89,8 +89,14 @@ permalink: /nos
 
 <p>
     <div class="row">
-        <div class="col-12">
-            <img class="u-max-full-width" src="/assets/www/nos/casa1.jpeg" />
+        <div class="col-4">
+            <img class="u-max-full-width" src="/assets/www/nos/casa4.jpeg" />
+        </div>
+        <div class="col-4">
+            <img class="u-max-full-width" src="/assets/www/nos/casa5.jpeg" />
+        </div>
+        <div class="col-4">
+            <img class="u-max-full-width" src="/assets/www/nos/casa6.jpeg" />
         </div>
     </div>
 </p>
