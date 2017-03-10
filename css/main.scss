@@ -108,6 +108,12 @@ iframe{
       margin:10px 30px;
       a{
         text-decoration: none !important;
+
+        i {
+          width: 1em;
+          height: 1em;
+          display:block;
+        }
       }
     }
   }
