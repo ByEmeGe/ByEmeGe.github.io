@@ -50,7 +50,7 @@ layout: default
       <ul class="post-list">
         {% for post in site.posts %}
           <li>
-            <span class="post-meta">
+            <span class="post-meta">{{ post.date | date: "%-d/%-m/%Y" }}
                 {% assign m = post.date | date: "%-m" %}
                 {{ post.date | date: "%-d de" }}
                 {% case m %}
