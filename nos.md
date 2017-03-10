@@ -2,22 +2,8 @@
 layout: page
 permalink: /nos
 ---
-<div class="row">
-         <div class="offset-by-four four columns contacto">
-             <ul>
-                 <li>
-                     <a class="email" href="mailto:{{site.email}}">
-                         <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
-                     </a>
-                 </li>
-                 <li>
-                     <a class="email" href="mailto:{{site.email}}">
-                         <i class="fa fa-phone-square fa-4x" aria-hidden="true"></i>
-                     </a>
-                 </li>
-             </ul>
-         </div>
-     </div>
+
+
 
 <p>
    "Os Paxariños" é unha casa niño que nace baixo o plan de Casas niño da Xunta de Galicia. Atópase situada na
