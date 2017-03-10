@@ -143,6 +143,15 @@ a.tlf{
   }
 }
 
+h2.sub_title{
+  text-decoration: none;
+  color: #80b3ff !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Pompiere !important;
+  text-align: center;
+}
+
 
 @import
 "../sass/base",

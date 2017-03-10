@@ -43,7 +43,7 @@ permalink: /nos
 --------------------------------------------------------------------------------------------------------------------------------
 
 <p>
-    <h2>A Casa</h2>
+    <h2 class="sub_title">A Casa</h2>
 </p>
 <p>
     A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso
