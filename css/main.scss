@@ -120,6 +120,24 @@ a.btn:hover {
   color: white !important;
 }
 
+a.mail,a.tlf{
+  width: 60px;
+  height: 60px;
+}
+
+a.mail{
+  background-image: url(../assets/www/mail.png);
+  &:hover{
+    background-image: url(../assets/www/mail_hover.png);
+  }
+}
+
+a.tlf{
+  background-image: url(../assets/www/tlf.png);
+  &:hover{
+    background-image: url(../assets/www/tlf_hover.png);
+  }
+}
 
 
 @import
