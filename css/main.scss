@@ -101,10 +101,11 @@ iframe{
     margin: 0;
     padding: 0;
     list-style-type: none !important;;
-    text-align: center !important;;
+    text-align: center !important;
 
     li {
       display: inline !important;
+      margin:0 10px;
     }
   }
 }
