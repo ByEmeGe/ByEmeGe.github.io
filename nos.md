@@ -42,9 +42,12 @@ permalink: /nos
 </p>
 --------------------------------------------------------------------------------------------------------------------------------
 <p>
-    A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso sanitario.<br>
-    A principios de 2016 foi rehabilitada mantendo a súa distribución orixinal,con aseo e cociña, axustándose así as necesidades do proxecto.
+    A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso
+    sanitario.<br>    A principios de 2016 foi rehabilitada mantendo a súa distribución orixinal,con aseo e cociña,
+    axustándose así as necesidades do proxecto.<br>
 </p>
+
+<br>
 
 <p>
     <div class="row">
@@ -57,11 +60,15 @@ permalink: /nos
     </div>
 </p>
 
+<br>
+
 <p>
     O local, totalmente equipado, busca satisfacer as necesidades dos cativos co fin de permitirlles desenvolver todo
     o seu potencial, tanto físico, motor, afectivo, intelectual e social. Para lograr este obxectivo, a conta con todo
-    o equipamento necesario, como pode ser desde o mobiliario ata sistemas de protección infantil.
+    o equipamento necesario, como pode ser desde o mobiliario ata sistemas de protección infantil.<br>
 </p>
+
+<br>
 
 <p>
     <div class="row">
@@ -71,7 +78,7 @@ permalink: /nos
     </div>
 </p>
 
-
+<br>
 
 
 
