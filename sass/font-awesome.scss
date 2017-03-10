@@ -5,13 +5,13 @@
 /* FONT PATH
  * -------------------------- */
 @font-face {
-  font-family: 'FontAwesome';
+  font-family: FontAwesome;
       src: url('../sass/fonts/FontAwesome.otf');
-      src: url('../sass/fonts/fontawesome-webfont.eot') format('embedded-opentype');
+     /* src: url('../sass/fonts/fontawesome-webfont.eot') format('embedded-opentype');
       src:url('../sass/fonts/fontawesome-webfont.woff2') format('woff2');
       src:url('../sass/fonts/fontawesome-webfont.woff') format('woff');
       src:url('../sass/fonts/fontawesome-webfont.ttf') format('truetype');
-      src:url('../sass/fonts/fontawesome-webfont.svg') format('svg');
+      src:url('../sass/fonts/fontawesome-webfont.svg') format('svg');*/
   font-weight: normal;
   font-style: normal;
 }
