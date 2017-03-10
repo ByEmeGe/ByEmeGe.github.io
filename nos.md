@@ -45,6 +45,19 @@ permalink: /nos
 <p>
     <h2 class="sub_title">A Casa</h2>
 </p>
+
+<br>
+
+<p>
+    <div class="row">
+        <div class="col-12">
+            <img class="u-max-full-width" src="/assets/www/nos/casa1.jpeg" />
+        </div>
+    </div>
+</p>
+
+<br>
+
 <p>
     A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso
     sanitario.<br>    A principios de 2016 foi rehabilitada mantendo a súa distribución orixinal,con aseo e cociña,
@@ -77,7 +90,7 @@ permalink: /nos
 <p>
     <div class="row">
         <div class="col-12">
-            <img class="u-max-full-width" src="/assets/www/nos/IMG-20161116-WA0005.jpg" />
+            <img class="u-max-full-width" src="/assets/www/nos/casa1.jpeg" />
         </div>
     </div>
 </p>
