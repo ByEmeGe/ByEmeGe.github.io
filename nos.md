@@ -49,10 +49,10 @@ permalink: /nos
 <p>
 <div class="row">
     <div class="col-6">
-        ![hero]({{ site.baseurl }}/assets/www/nos/IMG-20161117-WA0006.jpg){:class="img-responsive post_image"}
+        <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0006.jpg" />
     </div>
     <div class="col-6">
-        ![hero]({{ site.baseurl }}/assets/www/nos/IMG-20161117-WA0007.jpg){:class="img-responsive post_image"}
+        <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0007.jpg" />
     </div>
 </div>
 </p>
