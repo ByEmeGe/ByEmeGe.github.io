@@ -95,9 +95,22 @@ img.img-responsive.post_image{
 iframe{
   width:100% !important;
 }
-.contacto i{
-  
+
+.contacto{
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none !important;;
+    text-align: center !important;;
+
+    li {
+      display: inline !important;
+    }
+  }
 }
+
+
+
 
 @import
 "../sass/base",
