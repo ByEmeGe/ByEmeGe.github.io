@@ -103,9 +103,13 @@ permalink: /nos
 
 <br>
 
+<p>
+    Grazas ao amplio espazo de lecer, os cativos poden xogar e participar nas actividades grupales con total liberdade,
+    o quelles permite adquirir certo grado de autonomía.  O método educativo que se leva a cabo é o método Montessori,
+    que se caracteriza por ser o cativo o que dirixe a actividade, sendo a mestra unhna mera observadora: a mestra
+    adapta o entorno de apredizaxe do cativo ao seu nivel de desenvolvemento.<br>O obxectivo básico deste método é
+    liberar o potencial de cada neno para que él mesmo se desenvolva nun ambiente estructurado.
+</p>
 
 
 
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
