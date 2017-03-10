@@ -42,22 +42,34 @@ permalink: /nos
 </p>
 --------------------------------------------------------------------------------------------------------------------------------
 <p>
-    A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso sanitario.<br><br>
+    A casa, propiedade do Concello, trátase da antiga casa do médico, que durante moitos anos foi destinada a uso sanitario.<br>
     A principios de 2016 foi rehabilitada mantendo a súa distribución orixinal,con aseo e cociña, axustándose así as necesidades do proxecto.
 </p>
 
 <p>
-<div class="row">
-    <div class="col-6">
-        <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0006.jpg" />
+    <div class="row">
+        <div class="col-6">
+            <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0006.jpg" />
+        </div>
+        <div class="col-6">
+            <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0007.jpg" />
+        </div>
     </div>
-    <div class="col-6">
-        <img class="u-max-full-width" src="/assets/www/nos/IMG-20161117-WA0007.jpg" />
-    </div>
-</div>
 </p>
 
+<p>
+    O local, totalmente equipado, busca satisfacer as necesidades dos cativos co fin de permitirlles desenvolver todo
+    o seu potencial, tanto físico, motor, afectivo, intelectual e social. Para lograr este obxectivo, a conta con todo
+    o equipamento necesario, como pode ser desde o mobiliario ata sistemas de protección infantil.
+</p>
 
+<p>
+    <div class="row">
+        <div class="col-12">
+            <img class="u-max-full-width" src="/assets/www/nos/IMG-20161116-WA0005.jpg" />
+        </div>
+    </div>
+</p>
 
 
 
