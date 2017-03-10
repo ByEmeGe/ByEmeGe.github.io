@@ -121,12 +121,14 @@ a.btn:hover {
 }
 
 a.mail,a.tlf{
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 }
 
 a.mail{
   background-image: url(../assets/www/mail.png);
+  background-size: 80px;
+  display: block;
   &:hover{
     background-image: url(../assets/www/mail_hover.png);
   }
@@ -134,6 +136,8 @@ a.mail{
 
 a.tlf{
   background-image: url(../assets/www/tlf.png);
+  background-size: 80px;
+  display: block;
   &:hover{
     background-image: url(../assets/www/tlf_hover.png);
   }
