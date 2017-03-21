@@ -14,7 +14,7 @@ Os nosos paxariños disfrutaron con esta actividade, aprendendo xa dende moi cat
 A natureza ofrecelles unha cantidade enorme de estímulos: dela aprenden, xogan, distráense, reláxanse e desfrutan. Por todo iso, é especialmente importante que comprendan a relevancia que ten a ntaureza nas súas vidas.
 
 Como dixo María Montessori:
->"Ningunha descripción, ningunha ilustración de calquer libro pode sustituñir á contermplación das árbores reais e de toda a vida que os rodea nun bosque real"
+>"Ningunha descripción, ningunha ilustración de calquer libro pode sustituir á contemplación das árbores reais e de toda a vida que os rodea nun bosque real"
 
 <br>
 ![hero]({{ site.baseurl }}/assets/Blog/2017/g4848.png){:class="img-responsive post_image"}
