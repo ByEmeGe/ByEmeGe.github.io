@@ -8,8 +8,7 @@ author: Alba García
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/g4229.png){:class="img-responsive post_image"}
 <br>
-Orbi porta bibendum augue. Praesent ultrices eros a tincidunt blandit. Mauris libero est, placerat a fermentum ut, volutpat nec nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque et turpis quis ligula finibus convallis. Nunc porta, orci sit amet pulvinar sodales, est tortor feugiat quam, in aliquet ex enim quis libero. Nullam tortor libero, dignissim non imperdiet ac, vulputate vel neque. Morbi at nisi risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc gravida suscipit nibh id fringilla. In feugiat lectus massa, semper condimentum lacus vestibulum quis. Nunc ac accumsan diam. Integer in risus consectetur, aliquam risus non, placerat ante. Curabitur ex lacus, luctus non euismod in, aliquet a lacus.
+O Día da Árbore ou Festa da Árbore é un recordatorio da importancia de protexer as superficies arboladas. As árbores, entre outros moitos beneficios, transforman o dióxido de carbono, responsable do efecto invernadoiro, en biomasa, minimizan os riscos de inundacións, evitan a erosión, ...
 
-Curabitur pharetra fringilla tortor eu faucibus. Nunc faucibus lacus pellentesque, condimentum neque nec, tempus sem. Curabitur a tempor purus. Praesent auctor scelerisque nunc in elementum. Vestibulum consequat mauris ac faucibus viverra. Vestibulum et leo diam. Ut at sem massa. Duis ac commodo arcu, nec condimentum neque. Donec et vehicula arcu, ut sodales magna. Donec velit quam, ultricies vitae ipsum ac, fermentum venenatis nisl. Cras tristique arcu sapien, vitae condimentum velit imperdiet eu.
-
+Os nosos paxariños disfrutaron con esta actividade, aprendendo xa dende moi cativos a importancia de protexer e manter o medio natural que nos rodea
 ![hero]({{ site.baseurl }}/assets/Blog/2017/g4848.png){:class="img-responsive post_image"}
