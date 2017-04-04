@@ -4,6 +4,7 @@ title:  "Esto es una prueba!"
 date:   2017-03-09 03:50:12 +0200
 categories: actividade entroido
 author: Alba García
+image: https://byemege.github.io/assets/Blog/2017/g4229.png
 ---
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/2/Carnaval.jpeg){:class="img-responsive post_image"}
