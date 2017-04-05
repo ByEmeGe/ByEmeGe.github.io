@@ -3,7 +3,7 @@ layout: post
 title:  "Astro Jekyll Theme"
 date:   2014-07-17 04:07:49
 categories: Jekyll Themes
-banner_image: ""
+featured-img: "media/Forest.jpg"
 featured: false
 comments: true
 ---
