@@ -4,6 +4,7 @@ title:  "dia arbol!"
 date:   2017-03-09 03:50:12 +0200
 categories: actividade entroido
 author: Alba García
+slug: 123
 ---
 
 ![hero]({{ site.baseurl }}/assets/Blog/2017/g4229.png){:class="img-responsive post_image"}
