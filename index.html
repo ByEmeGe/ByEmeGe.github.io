@@ -18,7 +18,6 @@ description: "A Clean Blog Theme by Start Bootstrap"
         </h3>
         {% endif %}
     </a>
-    <p>{{ post.excerpt }}</p>
     <div class="post-categories">
         {% if post %}
         {% assign categories = post.categories %}
@@ -30,6 +29,8 @@ description: "A Clean Blog Theme by Start Bootstrap"
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
     </div>
+    <p>{{ post.excerpt }}</p>
+
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
