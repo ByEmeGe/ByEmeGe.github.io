@@ -21,18 +21,18 @@ include: ['.htaccess']
 google_analytics: UA-96802447-1
 
 staticman:
-  branch: "master"
-  filename: comment-{@timestamp}
-  commitMessage: "new comment."
-  format: "yml"
-  allowedFields: ["name", "email", "message"]
-  requiredFields: ["name", "email", "message"]
-  generatedFields:
-    postTime:
-      type: "date"
-      options:
-        format: "timestamp"
-  path: "_data/comments/{options.slug}"
-  moderation: true
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email: "md5"
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+      format           : "iso8601"
