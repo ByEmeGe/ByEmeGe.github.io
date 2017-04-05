@@ -6,7 +6,8 @@ description: "A Clean Blog Theme by Start Bootstrap"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+        <h2 class="post-title">
+            {{ post.title }}
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
@@ -14,6 +15,11 @@ description: "A Clean Blog Theme by Start Bootstrap"
         </h3>
         {% endif %}
     </a>
+    {% if post.category %}
+        <h4 class="category">
+            {{ post.category }}
+        </h4>
+
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
@@ -34,3 +40,4 @@ description: "A Clean Blog Theme by Start Bootstrap"
     {% endif %}
 </ul>
 {% endif %}
+
