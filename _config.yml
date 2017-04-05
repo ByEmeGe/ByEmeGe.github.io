@@ -19,7 +19,6 @@ include: ['.htaccess']
 
 google_analytics: UA-96802447-1
 
-
 staticman:
   branch: "source"
   filename: comment-{@timestamp}
