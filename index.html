@@ -5,6 +5,17 @@ description: "A Clean Blog Theme by Start Bootstrap"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
+    <div class="col-md-1">
+        <div class="row">
+            {{ post.date | date: "%-d" }}
+        </div>
+        <div class="row">
+
+        </div>
+    </div>
+
+
+
     {% if post.featured-img %}
         <img src="{{ post.featured-img }}" >
     {% endif %}
