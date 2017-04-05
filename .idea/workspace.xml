@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Forest.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,17 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-07-17-astro-jekyll-theme.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2014-07-17-astro-jekyll-theme.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-astro-jekyll-theme.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -171,8 +171,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2014-07-19-getting-started-with-yeoman-and-grunt.markdown" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2014-07-17-astro-jekyll-theme.markdown" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -366,14 +366,7 @@
       <workItem from="1489026495632" duration="35688000" />
       <workItem from="1490098777629" duration="2366000" />
       <workItem from="1491314511602" duration="3454000" />
-      <workItem from="1491388225972" duration="18577000" />
-    </task>
-    <task id="LOCAL-00010" summary="Comments&#10;">
-      <created>1491391647228</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1491391647228</updated>
+      <workItem from="1491388225972" duration="18683000" />
     </task>
     <task id="LOCAL-00011" summary="Comments&#10;">
       <created>1491393249517</created>
@@ -711,11 +704,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491432626263</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="&#10;sdf">
+      <created>1491432733030</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1491432733030</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60085000" />
+    <option name="totallyTimeSpent" value="60191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1124,14 +1124,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-19-getting-started-with-yeoman-and-grunt.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1144,6 +1136,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
