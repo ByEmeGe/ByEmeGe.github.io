@@ -15,6 +15,7 @@ url: "https://byemege.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+
 include: ['.htaccess']
 
 google_analytics: UA-96802447-1
