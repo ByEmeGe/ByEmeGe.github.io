@@ -18,6 +18,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
         </h3>
         {% endif %}
     </a>
+    <p>{{ post.excerpt }}</p>
     <div class="post-categories">
         {% if post %}
         {% assign categories = post.categories %}
