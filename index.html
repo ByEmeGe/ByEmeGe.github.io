@@ -2,64 +2,39 @@
 layout: default
 ---
 
-<div class="home">
- <div class="top card">
-
-
-    <p class="description">{{ site.description }}</p>
-
-    <a href="nos" class="btn">Saber Máis</a>
-     <br>
-
-     <div class="row">
-         <div class="col-4">
-             <img class="u-max-full-width" src="/assets/www/feder.png" />
-         </div>
-         <div class="col-4">
-             <img class="u-max-full-width" src="/assets/www/xunta.png" />
-         </div>
-         <div class="col-4">
-             <img class="u-max-full-width" src="/assets/www/castrelo.png" />
-         </div>
-     </div>
-  </div>
-
-  <div class="posts card">
-      <div class="card-content white-text">
-          <span class="card-title">Contacto</span>
-          <div class="row">
-              <div class="offset-by-two eight columns contacto">
-                  <ul>
-                      <li>
-                          <a class="mail" href="mailto:{{site.email}}">
-                          </a>
-                      </li>
-                      <li>
-                          <a class="tlf" href="tel:+34671467937">
-                          </a>
-                      </li>
-                  </ul>
-              </div>
-          </div>
-      </div>
-  </div>
-  <div class="posts card">
-      <div class="card-content white-text">
-      <span class="card-title">Blog</span>
-
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li>
-            <span class="post-meta">
-                {{ post.date | date: "%-d/%-m/%Y" }}
-            </span>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
-          </li>
-        {% endfor %}
-      </ul>
-
-      <p class="rss-subscribe">subscribete <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-      </div>
-   </div>
-
+<div class="profile">
+	{% if site.logourl != "" %}<img src="{{ site.logourl }}" class="profileimage" alt="user">{% endif %}
+	<h4>{{ site.title }}</h4>
+	<p>{{ site.description }}</p>
+	<hr>
 </div>
+
+<section class="posts postindex wrapper">
+
+	{% for post in paginator.posts %}
+		<article class="post {% if post.featured == true %} featured {% endif %}">
+			<header>
+				<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
+				<h2>
+					{% for category in post.categories %}
+					{{ category }} 
+					{% endfor %}
+				</h2>
+				<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+				<span>
+					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
+				</span>
+				<div class="excerpt">
+					{% if post.content contains '<!--more-->' %}
+						{{ post.content | split:'<!--more-->' | first }}
+					{% else %}
+						{{ post.content }}   
+					{% endif %}
+				</div>
+			</header>
+		</article>
+	{% endfor %}
+
+	{% include pagination.html %}
+
+</section>

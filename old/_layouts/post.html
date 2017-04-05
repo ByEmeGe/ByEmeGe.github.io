@@ -1,0 +1,83 @@
+---
+layout: default
+---
+<article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
+ <div class="card-content">
+  <header class="post-header">
+    <h1 class="post-title titulo" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d de" }}
+            {% case m %}
+            {% when '1' %}enero
+            {% when '2' %}febrero
+            {% when '3' %}marzo
+            {% when '4' %}abril
+            {% when '5' %}mayo
+            {% when '6' %}junio
+            {% when '7' %}julio
+            {% when '8' %}agosto
+            {% when '9' %}septiembre
+            {% when '10' %}octubre
+            {% when '11' %}noviembre
+            {% when '12' %}diciembre
+            {% endcase %}
+            {{ page.date | date: "de %Y" }}
+        </time>
+        {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+    <br><br>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</div>
+
+</article>
+<div>
+    <div>
+        <br> ------------------------------------------------------------------------------------------<br>
+        <br>------------------------------------------------------------------------------------------<br>
+        <br>------------------------------------------------------------------------------------------<br>
+
+        *****
+        {% if site.data.comments %}
+        <h1>va</h1>
+        {{ site.data.comments[page.slug] }}
+        {% else %}
+        <h1>no va</h1>
+        {% endif %}
+        {{ page.slug }}
+
+        <br>------------------------------------------------------------------------------------------<br>
+        <br>------------------------------------------------------------------------------------------<br>
+        <br>------------------------------------------------------------------------------------------<br>
+    </div>
+
+</div>
+
+
+<form id="comment-form" method="post" action="https://api.staticman.net/v2/entry/ByEmeGe/ByEmeGe.github.io/master/comments">
+    <fieldset>
+        <label for="comment-form-message">Comment</label>
+        <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
+    </fieldset>
+    <fieldset>
+        <label for="comment-form-name">Name</label>
+        <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
+    </fieldset>
+    <fieldset>
+        <label for="comment-form-email">Email address</label>
+        <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
+    </fieldset>
+    <fieldset class="hidden" style="display:none;">
+        <!-- used by Staticman to generate filenames for each comment -->
+        <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+        <!-- honey pot field used to filter out spam -->
+        <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+        <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+    </fieldset>
+    <fieldset>
+        <button type="submit" id="comment-form-submit" tabindex="4">Submit Comment</button>
+    </fieldset>
+</form>
