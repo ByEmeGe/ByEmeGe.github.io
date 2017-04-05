@@ -20,7 +20,7 @@ include: ['.htaccess']
 google_analytics: UA-96802447-1
 
 staticman:
-  branch: "source"
+  branch: "master"
   filename: comment-{@timestamp}
   commitMessage: "new comment."
   format: "yml"
