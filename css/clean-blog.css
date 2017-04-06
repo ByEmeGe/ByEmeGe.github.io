@@ -406,10 +406,13 @@ body {
 
 @font-face {
   font-family: 'Existence';
-
   src: url('../fonts/Existence-Light.otf');
 }
 
+@font-face {
+  font-family: 'Distant';
+  src: url('../fonts/DISTGRG_.ttf');
+}
 
 
 /*************************/
@@ -450,6 +453,9 @@ body {
   padding: 10px;
   margin-bottom: 5px;
   text-align: center;
+}
+.day{
+  font-family: 'Distant' !important;
 }
 .year{
   background: #21c2f8;
