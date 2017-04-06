@@ -404,6 +404,11 @@ body {
 
 
 
+@font-face {
+  font-family: 'Existence';
+
+  src: url('../fonts/Existence-Light.otf');
+}
 
 .date{
   width: 100px;
@@ -431,4 +436,9 @@ body {
   width: 80px;
   text-align: center;
   padding: 5px;
+}
+
+.post-excerpt {
+  margin-left: 10px;
+  font-size: 18px;
 }
