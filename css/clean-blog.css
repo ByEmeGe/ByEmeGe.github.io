@@ -439,6 +439,7 @@ body {
   color: #fff;
   text-transform: uppercase;
   float: left;
+  display: block;
 }
 
 .post-date {
