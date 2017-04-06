@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="612">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -368,14 +368,7 @@
       <workItem from="1489026495632" duration="35688000" />
       <workItem from="1490098777629" duration="2366000" />
       <workItem from="1491314511602" duration="3454000" />
-      <workItem from="1491388225972" duration="22053000" />
-    </task>
-    <task id="LOCAL-00026" summary="&#10;sdf">
-      <created>1491402095251</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1491402095251</updated>
+      <workItem from="1491388225972" duration="22080000" />
     </task>
     <task id="LOCAL-00027" summary="&#10;sdf">
       <created>1491402197958</created>
@@ -713,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491439398569</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="&#10;sdf">
+      <created>1491439811493</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1491439811493</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63561000" />
+    <option name="totallyTimeSpent" value="63588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1145,8 +1145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="612">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
           <folding />
         </state>
       </provider>
