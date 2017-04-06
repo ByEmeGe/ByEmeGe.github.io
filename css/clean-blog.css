@@ -410,6 +410,21 @@ body {
   src: url('../fonts/Existence-Light.otf');
 }
 
+
+
+/*************************/
+/*        POST           */
+/*************************/
+
+.post-title{
+  font-family: Existence !important;
+  color: #21c2f8;
+}
+
+
+
+
+/*DATE*/
 .date{
   width: 100px;
   padding-right: 30px;
