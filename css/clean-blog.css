@@ -416,9 +416,14 @@ body {
 /*        POST           */
 /*************************/
 
+.post-preview{
+  font-family: Existence;
+}
+
 .post-title{
   font-family: Existence !important;
   color: #21c2f8;
+  text-transform: uppercase;
 }
 
 
