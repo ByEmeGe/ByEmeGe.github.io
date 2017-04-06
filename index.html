@@ -6,8 +6,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
 {% for post in paginator.posts %}
 <div class="post-preview">
 
-
-
+<div class="col-xs-12">
     <div class="row">
         {% if post.featured-img %}
         <img src="{{ post.featured-img }}" >
@@ -41,6 +40,9 @@ description: "A Clean Blog Theme by Start Bootstrap"
             {% endfor %}
         </div>
     </div>
+
+</div>
+
 
 <br><br>
 
