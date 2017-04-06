@@ -410,8 +410,8 @@ body {
 }
 
 @font-face {
-  font-family: 'Distant';
-  src: url('../fonts/DISTGRG_.ttf');
+  font-family: 'Nevis';
+  src: url('../fonts/nevis.ttf');
 }
 
 
@@ -455,7 +455,7 @@ body {
   text-align: center;
 }
 .day{
-  font-family: 'Distant' !important;
+  font-family: 'Nevis' !important;
 }
 .year{
   background: #21c2f8;
