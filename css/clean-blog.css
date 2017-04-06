@@ -417,7 +417,7 @@ body {
 /*************************/
 
 .post-preview{
-  font-family: Existence;
+  font-family: Existence !important;
 }
 
 .post-title{
@@ -444,16 +444,16 @@ body {
   background: #21c2f8;*/
 }
 .date-dm{
-  height: 80px;
-  width: 80px;
+  height: 70px;
+  width: 70px;
   background: #21c2f8;
-  padding: 15px;
+  padding: 10px;
   margin-bottom: 5px;
   text-align: center;
 }
 .year{
   background: #21c2f8;
-  width: 80px;
+  width: 70px;
   text-align: center;
   padding: 5px;
 }
