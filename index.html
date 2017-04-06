@@ -66,10 +66,11 @@ description: "A Clean Blog Theme by Start Bootstrap"
     </div>
 
     <div class="col-xs-10">
+        <div class="row">
+            {{ post.excerpt }}
+        </div>
 
-       {{ post.excerpt }}
-
-        <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+        <!--<p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>-->
     </div>
     <hr>
     {% endfor %}
