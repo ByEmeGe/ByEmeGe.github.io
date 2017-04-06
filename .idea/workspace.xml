@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="&#10;sdf">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/mountain.jpg" />
+    <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-19-javascript-design-patterns-introduction.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-19-javascript-design-patterns-introduction.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,17 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-07-19-javascript-design-patterns-introduction.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2014-07-19-javascript-design-patterns-introduction.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-07-19-javascript-design-patterns-introduction.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -174,8 +173,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-07-19-getting-started-with-yeoman-and-grunt.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-17-astro-jekyll-theme.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-09-getting-started-with-yeoman-and-grunt.markdown" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2014-07-19-javascript-design-patterns-introduction.markdown" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -369,14 +368,7 @@
       <workItem from="1489026495632" duration="35688000" />
       <workItem from="1490098777629" duration="2366000" />
       <workItem from="1491314511602" duration="3454000" />
-      <workItem from="1491388225972" duration="21644000" />
-    </task>
-    <task id="LOCAL-00025" summary="Comments&#10;">
-      <created>1491402000842</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1491402000842</updated>
+      <workItem from="1491388225972" duration="22053000" />
     </task>
     <task id="LOCAL-00026" summary="&#10;sdf">
       <created>1491402095251</created>
@@ -714,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491439311332</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="&#10;sdf">
+      <created>1491439398569</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1491439398569</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63152000" />
+    <option name="totallyTimeSpent" value="63561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1128,14 +1127,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-astro-jekyll-theme.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1148,6 +1139,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding />
         </state>
       </provider>

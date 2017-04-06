@@ -9,11 +9,12 @@ description: "A Clean Blog Theme by Start Bootstrap"
 
 
     <div class="row">
-
         {% if post.featured-img %}
         <img src="{{ post.featured-img }}" >
         {% endif %}
+    </div>
 
+    <div class="row">
         <a href="{{ post.url | prepend: site.baseurl }}">
             <h2 class="post-title">
                 {{ post.title }}
@@ -24,7 +25,9 @@ description: "A Clean Blog Theme by Start Bootstrap"
             </h3>
             {% endif %}
         </a>
+    </div>
 
+    <div class="row">
         <div class="post-categories">
             {% if post %}
             {% assign categories = post.categories %}
@@ -33,7 +36,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
             {% endif %}
             {% for category in categories %}
             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-            {% unless forloop.last %}&nbsp;{% endunless %}
+            {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
             {% endfor %}
         </div>
     </div>
