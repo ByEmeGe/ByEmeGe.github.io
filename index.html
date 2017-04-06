@@ -13,33 +13,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
         {% endif %}
     </div>
 
-    <div class="row">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-            <h2 class="post-title">
-                {{ post.title }}
-            </h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">
-                {{ post.subtitle }}
-            </h3>
-            {% endif %}
-        </a>
-    </div>
 
-
-    <div class="row">
-        <div class="post-categories">
-            {% if post %}
-            {% assign categories = post.categories %}
-            {% else %}
-            {% assign categories = page.categories %}
-            {% endif %}
-            {% for category in categories %}
-            <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-            {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
-            {% endfor %}
-        </div>
-    </div>
 </div>
 
 
@@ -76,6 +50,33 @@ description: "A Clean Blog Theme by Start Bootstrap"
         </div>
 
     <div class="col-xs-11">
+        <div class="row">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="post-title">
+                    {{ post.title }}
+                </h2>
+                {% if post.subtitle %}
+                <h3 class="post-subtitle">
+                    {{ post.subtitle }}
+                </h3>
+                {% endif %}
+            </a>
+        </div>
+
+
+        <div class="row">
+            <div class="post-categories">
+                {% if post %}
+                {% assign categories = post.categories %}
+                {% else %}
+                {% assign categories = page.categories %}
+                {% endif %}
+                {% for category in categories %}
+                <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
+                {% endfor %}
+            </div>
+        </div>
         <div class="row">
             <div class="post-excerpt">
                 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}

@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <state relative-caret-position="286">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -370,14 +370,7 @@
       <workItem from="1489026495632" duration="35688000" />
       <workItem from="1490098777629" duration="2366000" />
       <workItem from="1491314511602" duration="3454000" />
-      <workItem from="1491388225972" duration="30387000" />
-    </task>
-    <task id="LOCAL-00056" summary="&#10;sdf">
-      <created>1491432495336</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1491432495336</updated>
+      <workItem from="1491388225972" duration="30659000" />
     </task>
     <task id="LOCAL-00057" summary="&#10;sdf">
       <created>1491432551397</created>
@@ -715,11 +708,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491482055560</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="&#10;df">
+      <created>1491482250096</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1491482250096</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71895000" />
+    <option name="totallyTimeSpent" value="72167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,9 +770,10 @@
     <MESSAGE value="123" />
     <MESSAGE value="hjkhjk" />
     <MESSAGE value="Comments&#10;" />
-    <MESSAGE value="&#10;" />
     <MESSAGE value="&#10;sdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;sdf" />
+    <MESSAGE value="&#10;" />
+    <MESSAGE value="&#10;df" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;df" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1150,8 +1151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        <state relative-caret-position="286">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
           <folding />
         </state>
       </provider>
