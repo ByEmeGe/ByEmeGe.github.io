@@ -407,23 +407,28 @@ body {
 
 .date{
   width: 100px;
-  float: left;
   padding-right: 30px;
   color: #fff;
   text-transform: uppercase;
 }
 
 .post-date {
-  width: 100%;
+/*  width: 100%;
   padding-bottom: 100%;
   margin-bottom: 5px;
-  background: #21c2f8;
+  background: #21c2f8;*/
 }
 .date-dm{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  height: 80px;
+  width: 80px;
+  background: #21c2f8;
+  padding: 15px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.year{
+  background: #21c2f8;
+  width: 80px;
+  text-align: center;
+  padding: 5px;
 }
