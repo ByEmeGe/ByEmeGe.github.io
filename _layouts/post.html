@@ -25,7 +25,7 @@
                         {% if page.author %}{{ author.name }}{% else %}{{ site.title }}{% endif %}
                     </div>
 
-                    <h4 class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</h4>
+                    <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
         </div>
