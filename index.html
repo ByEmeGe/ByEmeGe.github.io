@@ -89,7 +89,7 @@ title: Arume
                       <span class="card-title grey-text text-darken-4">{{ post.date | date: "%B %-d, %Y"}} <i class="mdi-navigation-close right"></i></span>
 
                       <br>
-                      <span class="grey-text text-darken-4">{{ post.title }} </span>
+                      <h5 class="grey-text text-darken-4">{{ post.title }} </h5>
                       <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
                       <div class="post-categories">
                           {% if post %}
