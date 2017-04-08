@@ -22,6 +22,7 @@
 		revealAnimationDelay = 1500;
 	
 	initHeadline();
+	  
 	
 
 	function initHeadline() {
