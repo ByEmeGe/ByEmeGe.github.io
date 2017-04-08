@@ -24,6 +24,9 @@
                             {% assign author = site.data.authors[page.author] %}
                             <!--<img src="{{ author.email | gravatar }}" alt="Contact Person">-->
                             <img src="{{ author.gravatar }}" alt="Contact Person">
+                            {% if page.author %}
+                                {{ author.name }}
+                            {% endif %}
                     </div>
 
                     {% endif %}
