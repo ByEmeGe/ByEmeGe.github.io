@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Getting Started with Yeoman & Grunt"
+title:  "Yeoman & Grunt"
 date:   2014-07-09 04:10:49
-categories: Developer Workflow
-featured-img: "media/landscape.jpg"
+categories: Developer Workflow Development
+featured-img: "posts_img/landscape.jpg"
 featured: true
 comments: true
+author: EmeGe
 ---
 
 Why use Grunt? In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
@@ -15,8 +16,6 @@ Why use Grunt? In one word: automation. The less work you have to do when perfor
 > Grunt is a task-based command line build tool for JavaScript projects.
 
 The Grunt ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze.
-
-{% include image_caption.html imageurl="/media/gruntjs-1.jpg" title="GruntJS" description="Grunt is built on Node.js, and it’s available as a package via the Node package manager (npm)." %}
 
 ## Installing the CLI
 

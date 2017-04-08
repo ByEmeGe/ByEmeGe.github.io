@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "JavaScript Design Patterns: Introduction"
+title:  "Prueba numero 1"
 date:   2014-07-19 04:07:49
-categories: Programming Patterns
-featured-img: "media/mountain.jpg"
+categories: Programming Patterns Themes
+featured-img: "posts_img/mountain.jpg"
 featured: true
 comments: true
+author: robert_rawlins
 ---
 
 One of the most important aspects of writing maintainable code is being able to notice the recurring themes in that code and optimize them. This is an area where knowledge of design patterns can prove invaluable.

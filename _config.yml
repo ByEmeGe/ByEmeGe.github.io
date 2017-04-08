@@ -1,11 +1,28 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
+title: Arume
 email: your-email@yourdomain.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
+#url: "http://192.168.1.37:4000/"
+#blogurl: "http://192.168.1.37:4000/blog/"
+#caturl: "http://192.168.1.37:4000/categories"
+#blogimgurl: "http://192.168.1.37:4000/posts_img/"
+#blogdefaultimgurl: "http://192.168.1.37:4000/posts_img/default.jpg"
+
+
+
 url: "https://byemege.github.io/"
+blogurl: "https://byemege.github.io/blog/"
+caturl: "https://byemege.github.io/categories"
+blogimgurl: "https://byemege.github.io/posts_img/"
+blogdefaultimgurl: "https://byemege.github.io/posts_img/default.jpg"
+
+
+
+
+
+bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap
@@ -20,6 +37,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 6
+paginate_path: "/blog/page:num/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-gravatar]

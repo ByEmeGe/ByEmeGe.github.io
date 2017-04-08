@@ -1,113 +1,124 @@
 ---
-layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+layout: default
+description: " - Material your Jekyll"
+title: Arume
 ---
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-
-<div class="col-xs-12">
-    <div class="row">
-        {% if post.featured-img %}
-        <img src="{{ post.featured-img }}" >
-        {% endif %}
-    </div>
-    <div class="row">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-            <h2 class="post-title">
-                {{ post.title }}
-            </h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">
-                {{ post.subtitle }}
-            </h3>
-            {% endif %}
-        </a>
-    </div>
 
 
+ <div id="intro" class="section scrollspy">
+  <div class="container">
+      <!--   Icon Section   -->
     <div class="row">
-        <div class="post-categories">
-            {% if post %}
-            {% assign categories = post.categories %}
-            {% else %}
-            {% assign categories = page.categories %}
-            {% endif %}
-            {% for category in categories %}
-            <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-            {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
-            {% endfor %}
+          <div  class="col s12">
+            <h2 class="center header text_h2"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="span_h2"> Phasellus  </span>vestibulum lorem risus, nec suscipit lorem <span class="span_h2"> laoreet quis.</span </h2>
+          </div>
+
+            <div  class="col s12 m4 l4">
+              <div class="center promo promo-example">
+                <i class="mdi-image-flash-on"></i>
+                <h5 class="promo-caption">Speeds up development</h5>
+                <p class="light center">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components.</p>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="center promo promo-example">
+                <i class="mdi-social-group"></i>
+                <h5 class="promo-caption">User Experience Focused</h5>
+                <p class="light center">By utilizing elements and principles of Material Design, we were able to create a framework that focuses on User Experience.</p>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="center promo promo-example">
+                <i class="mdi-action-settings"></i>
+               <h5 class="promo-caption">Easy to work with</h5>
+                <p class="light center">We have provided detailed documentation as well as specific code examples to help new users get started.</p>
+              </div>
+            </div>
+      </div>
+
+    <div class="row">
+        <div  class="col s12 m4 l4">
+          <div class="center promo promo-example">
+            <i class="mdi-action-favorite"></i>
+            <h5 class="promo-caption">Materializecss</h5>
+            <p class="light center">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components.</p>
+          </div>
         </div>
+        <div class="col s12 m4 l4">
+          <div class="center promo promo-example">
+            <i class="mdi-communication-phone"></i>
+            <h5 class="promo-caption">Simplifies</h5>
+            <p class="light center">By utilizing elements and principles of Material Design, we were able to create a framework that focuses on User Experience.</p>
+          </div>
+        </div>
+        <div class="col s12 m4 l4">
+          <div class="center promo promo-example">
+            <i class="mdi-communication-stay-current-portrait"></i>
+           <h5 class="promo-caption">Lorem Ipsum</h5>
+            <p class="light center">We have provided detailed documentation as well as specific code examples to help new users get started.</p>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
+
+
+
+
+
+<div class="section scrollspy" id="posts">
+ <div class="container">
+        <h2 class="header text_b"> Last Posts </h2>
+      <div class="row">
+
+          {% for post in site.posts limit:6%}
+
+
+
+          <div class="col s12 m6 l4">
+              <div class="card">
+                  <div class="card-image waves-effect waves-block waves-light">
+                      <img class="activator" src="../{% if post.featured-img %}{{ post.featured-img }}{% else %}../posts_img/default.jpg{% endif %}">
+                  </div>
+                  <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
+                      <p><a href="{{ post.url | prepend: site.baseurl }}">Leer Más</a></p>
+                  </div>
+                  <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">{{ post.title }} <i class="mdi-navigation-close right"></i></span>
+                      <br>
+                      <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+                      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
+                      <div class="post-categories">
+                          {% if post %}
+                          {% assign categories = post.categories %}
+                          {% else %}
+                          {% assign categories = page.categories %}
+                          {% endif %}
+                          {% for category in categories %}
+                          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                          {% unless forloop.last %}|&nbsp;{% endunless %}
+                          {% endfor %}
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          {% endfor %}
+        </div>
+     <div class="center-btn">
+         <a class="btn-floating btn-large waves-effect waves-light  tooltipped" data-position="left" data-delay="50" data-tooltip="Blog" href="{{ site.blogurl }}">
+             <i class="mdi-content-add"></i>
+         </a>
+         <a style="margin-left: 25px" class="btn-floating btn-large waves-effect waves-light tooltipped " data-position="right" data-delay="50" data-tooltip="Categorias" href="{{ site.caturl }}">
+             <i class="mdi-editor-format-list-bulleted"></i>
+         </a>
+     </div>
+
+  </div>
+     </div>
+  </div>
 
 </div>
-
-
-    <div class="col-xs-1">
-        <div class="row">
-            <div class="date">
-                <div class="post-date">
-                    <div class="date-dm">
-                        <div class="day">
-                            {{ post.date | date: "%d" }}
-                        </div>
-                        <div class="month">
-                            {% assign m = post.date | date: "%-m" %}
-                            {% case m %}
-                            {% when '1' %}Ene
-                            {% when '2' %}Feb
-                            {% when '3' %}Mar
-                            {% when '4' %}Abr
-                            {% when '5' %}May
-                            {% when '6' %}Jun
-                            {% when '7' %}Jul
-                            {% when '8' %}Ago
-                            {% when '9' %}Sep
-                            {% when '10' %}Oct
-                            {% when '11' %}Nov
-                            {% when '12' %}Dic
-                            {% endcase %}
-                        </div>
-                    </div>
-                    <div class="year">
-                        {{ post.date | date: "%Y" }}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-xs-11">
-
-        <div class="row">
-            <div class="post-excerpt">
-                {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-            </div>
-
-        </div>
-
-        <!--<p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>-->
-    </div>
-    <hr>
-    {% endfor %}
-    </div>
-
-
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
-
 
