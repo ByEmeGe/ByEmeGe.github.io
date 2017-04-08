@@ -2,7 +2,7 @@
 layout: post
 title:  "Prueba numero 1"
 date:   2014-07-19 04:07:49
-categories: Programming Patterns Themes
+categories: Patterns Themes
 featured-img: "posts_img/mountain.jpg"
 featured: true
 comments: true

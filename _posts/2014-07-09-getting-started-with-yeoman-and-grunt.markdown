@@ -2,7 +2,7 @@
 layout: post
 title:  "Yeoman & Grunt"
 date:   2014-07-09 04:10:49
-categories: Developer Workflow Development
+categories: Developer Workflow
 featured-img: "posts_img/landscape.jpg"
 featured: true
 comments: true
