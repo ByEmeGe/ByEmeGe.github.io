@@ -40,4 +40,4 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed, jekyll-gravatar]
+gems: [jekyll-paginate, jekyll-feed, jekyll-gravatar, jekyll-sitemap]
