@@ -5,7 +5,7 @@ categories:
 - Patterns
 - Themes
 layout: post
-featured-img: posts_img/mountain.jpg
+featured-img: posts_img/2.jpg
 featured: true
 comments: true
 author: robert_rawlins
