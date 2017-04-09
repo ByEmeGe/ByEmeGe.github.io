@@ -1,9 +1,9 @@
 ---
+title: Welcome to Jekyll!
+date: 2014-07-16 04:07:49 Z
+categories:
+- Jekyll
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-07-16 04:07:49
-categories: Jekyll
-
 featured: false
 comments: true
 ---
