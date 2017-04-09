@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/related_posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
@@ -85,21 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <file leaf-file-name="related_posts.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/related_posts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+            <state relative-caret-position="1615">
+              <caret line="95" column="6" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -120,6 +111,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -188,6 +189,7 @@
         <option value="$PROJECT_DIR$/categories.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/pager.html" />
+        <option value="$PROJECT_DIR$/_includes/related_posts.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
@@ -466,7 +468,7 @@
       <workItem from="1491314511602" duration="3454000" />
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
-      <workItem from="1491697676971" duration="5632000" />
+      <workItem from="1491697676971" duration="5765000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -815,7 +817,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103311000" />
+    <option name="totallyTimeSpent" value="103444000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -876,7 +878,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/comment_template.html" />
     <entry file="file://$PROJECT_DIR$/_data/123" />
     <entry file="file://$PROJECT_DIR$/_data/comments/1.php" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-09-esto es-una-prueba.markdown" />
@@ -1112,10 +1113,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/related_posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="6" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        <state relative-caret-position="441">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
