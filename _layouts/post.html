@@ -107,7 +107,7 @@
                                             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
                                             {% unless forloop.last %}|&nbsp;{% endunless %}
                                             {% endfor %}
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@
                             {% if maxRelatedCounter >= maxRelated %}
                                 {% break %}
                             {% endif %}
-                        {% elsif %}
+                        {% else %}
                             {% for post in site.posts limit:6%}
                                 <div class="col s12 m10 offset-m1 l4">
                                     <div class="card">
