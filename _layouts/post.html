@@ -26,4 +26,9 @@
         <!--FOOTER-->
         {% include footer.html %}
     </body>
+    <script>
+        $(window).scroll(function(){
+            $("#index-banner").css("opacity", 1 - $(window).scrollTop() / 250);
+        });
+    </script>
 </html>
