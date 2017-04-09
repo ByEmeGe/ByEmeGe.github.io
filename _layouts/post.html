@@ -38,6 +38,15 @@
                     <!-- POST CONTENT -->
                     {{ content }}
                     <br><br>
+                    <div class="container"style="margin-top: 50px">
+                        {% for category in post.categories %}
+                        {% capture category_name %}{{ category | first }}{% endcapture %}
+                        <div class="chip">
+                            <a href="#{{ category_name }}" > {{ category_name }}</a>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <br><br>
                     <!--PAGER-->
                     {% include pager.html %}
                 </div>
