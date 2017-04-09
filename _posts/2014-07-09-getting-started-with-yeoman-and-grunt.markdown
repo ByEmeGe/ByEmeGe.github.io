@@ -1,9 +1,11 @@
 ---
+title: Yeoman & Grunt
+date: 2014-07-09 04:10:49 Z
+categories:
+- Developer
+- Workflow
 layout: post
-title:  "Yeoman & Grunt"
-date:   2014-07-09 04:10:49
-categories: Developer Workflow
-featured-img: "posts_img/landscape.jpg"
+featured-img: posts_img/landscape.jpg
 featured: true
 comments: true
 author: EmeGe

@@ -1,8 +1,9 @@
 ---
+title: Responsive & Mobile Design
+date: 2014-06-18 04:07:49 Z
+categories:
+- Frontend
 layout: post
-title:  "Responsive & Mobile Design"
-date:   2014-06-18 04:07:49
-categories: Frontend
 banner_image: "/media/mobile.jpg"
 featured: false
 comments: true

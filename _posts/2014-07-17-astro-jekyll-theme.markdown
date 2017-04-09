@@ -1,9 +1,11 @@
 ---
+title: Astro Jekyll Theme
+date: 2014-07-17 04:07:49 Z
+categories:
+- Jekyll
+- Themes
 layout: post
-title:  "Astro Jekyll Theme"
-date:   2014-07-17 04:07:49
-categories: Jekyll Themes
-featured-img: "posts_img/Forest.jpg"
+featured-img: posts_img/Forest.jpg
 featured: false
 comments: true
 ---

@@ -1,9 +1,11 @@
 ---
+title: Yosemite Time-lapse Video
+date: 2014-06-24 04:07:49 Z
+categories:
+- Video
+- Frontend
 layout: post
-title:  "Yosemite Time-lapse Video"
-date:   2014-06-24 04:07:49
-categories: Video Frontend
-banner_image: ""
+banner_image: ''
 featured: false
 comments: true
 ---

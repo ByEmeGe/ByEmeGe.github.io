@@ -1,9 +1,11 @@
 ---
+title: Prueba numero 1
+date: 2014-07-19 04:07:49 Z
+categories:
+- Patterns
+- Themes
 layout: post
-title:  "Prueba numero 1"
-date:   2014-07-19 04:07:49
-categories: Patterns Themes
-featured-img: "posts_img/mountain.jpg"
+featured-img: posts_img/mountain.jpg
 featured: true
 comments: true
 author: robert_rawlins

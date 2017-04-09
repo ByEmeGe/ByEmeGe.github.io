@@ -1,9 +1,10 @@
 ---
+title: Cascade Stylesheets
+date: 2014-06-12 04:07:49 Z
+categories:
+- Frontend
 layout: post
-title:  "Cascade Stylesheets"
-date:   2014-06-12 04:07:49
-categories: Frontend
-featured-img: "posts_img/flat.jpg"
+featured-img: posts_img/flat.jpg
 featured: false
 comments: true
 ---
