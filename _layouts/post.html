@@ -45,13 +45,17 @@
                         {% assign categories = page.categories %}
                     {% endif %}
                     <div style="margin-top: 50px">
-                    {% for category in categories %}
-                        <div class="chip">
-                            <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-                        </div>
-                        {% unless forloop.last %}&nbsp;{% endunless %}
-                    {% endfor %}
+                        {% for category in categories %}
+                        uho
+                            <div class="chip">
+                                <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                            </div>
+                            {% unless forloop.last %}
+                                &nbsp;
+                            {% endunless %}
+                        {% endfor %}
                     </div>
+
                     <br><br>
                     <!--PAGER-->
                     {% include pager.html %}
