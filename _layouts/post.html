@@ -43,12 +43,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
 				{{ content }}
-
                 <hr>
-
-
                 <div class="center-btn">
                     {% if page.next.url %}
                     <a  class="btn-floating btn-large waves-effect waves-light tooltipped " data-position="left" data-delay="50" data-tooltip="Next Post" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -60,23 +56,7 @@
                             <i class="mdi-navigation-chevron-right"></i>
                         </a>
                     {% endif %}
-
                 </div>
-
-
-                <ul class="pager">
-                    {% if page.previous.url %}
-                    <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-                    </li>
-                    {% endif %}
-                    {% if page.next.url %}
-                    <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-                    </li>
-                    {% endif %}
-                </ul>
-
             </div>
         </div>
     </div>
