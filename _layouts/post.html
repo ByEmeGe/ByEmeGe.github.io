@@ -117,9 +117,8 @@
                                 {% break %}
                             {% endif %}
                         {% endif %}
-
                     {% endfor %}
-                    {% if sameTagCount == 0 %}
+                    {% if maxRelatedCounter == 0 %}
                         {% for post in site.posts limit:3%}
                         <div class="col s12 m10 offset-m1 l4">
                             <div class="card">
