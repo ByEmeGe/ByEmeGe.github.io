@@ -40,24 +40,17 @@
                     <br><br>
 
                     {% if post %}
-                    {% assign categories = post.categories %}
+                        {% assign categories = post.categories %}
                     {% else %}
-                    {% assign categories = page.categories %}
+                        {% assign categories = page.categories %}
                     {% endif %}
+                    <div style="margin-top: 50px">
                     {% for category in categories %}
-                    <div class="chip">
-                        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-                    </div>
-                    {% unless forloop.last %}|&nbsp;{% endunless %}
-                    {% endfor %}
-
-                    <div class="container"style="margin-top: 50px">
-                        {% for category in page.categories %}
-                        {% capture category_name %}{{ category | first }}{% endcapture %}
                         <div class="chip">
-                            <a href="#{{ category_name }}" > {{ category_name }}</a>
+                            <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
                         </div>
-                        {% endfor %}
+                        {% unless forloop.last %}&nbsp;{% endunless %}
+                    {% endfor %}
                     </div>
                     <br><br>
                     <!--PAGER-->
