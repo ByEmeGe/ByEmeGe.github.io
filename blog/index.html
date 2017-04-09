@@ -10,19 +10,20 @@ description: This is Arume
             {% for post in paginator.posts %}
 
 
-            <div class="col l4">
+            <div class="col s12 m10 offset-m1 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="{% if post.featured-img %}{{site.url}}/{{ post.featured-img }}{% else %}{{site.blogdefaultimgurl}}{% endif %}">
+                        <img class="activator" src="../{% if post.featured-img %}{{ post.featured-img }}{% else %}../posts_img/default.jpg{% endif %}">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
                         <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
                     </div>
                     <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">{{ post.title }} <i class="mdi-navigation-close right"></i></span>
+                        <span class="card-title grey-text text-darken-4">{{ post.date | date: "%B %-d, %Y"}} <i class="mdi-navigation-close right"></i></span>
+
                         <br>
-                        <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+                        <h5 class="grey-text text-darken-4">{{ post.title }} </h5>
                         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
                         <div class="post-categories">
                             {% if post %}
@@ -36,7 +37,6 @@ description: This is Arume
                             {% endfor %}
                         </div>
                     </div>
-
                 </div>
             </div>
 
