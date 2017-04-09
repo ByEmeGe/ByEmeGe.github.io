@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
@@ -108,8 +107,8 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="59" column="65" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+            <state relative-caret-position="458">
+              <caret line="58" column="182" selection-start-line="58" selection-start-column="182" selection-end-line="58" selection-end-column="182" />
               <folding />
             </state>
           </provider>
@@ -437,7 +436,7 @@
       <workItem from="1491314511602" duration="3454000" />
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
-      <workItem from="1491697676971" duration="2586000" />
+      <workItem from="1491697676971" duration="2716000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -786,7 +785,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100265000" />
+    <option name="totallyTimeSpent" value="100395000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1077,8 +1076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="59" column="65" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+        <state relative-caret-position="458">
+          <caret line="58" column="182" selection-start-line="58" selection-start-column="182" selection-end-line="58" selection-end-column="182" />
           <folding />
         </state>
       </provider>

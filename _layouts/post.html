@@ -51,13 +51,13 @@
 
                 <div class="center-btn">
                     {% if page.previous.url %}
-                        <a class="btn-floating btn-large waves-effect waves-light  tooltipped" data-position="left" data-delay="50" data-tooltip="Blog" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">
-                            <i class="mdi-navigation-chevron-left"></i>
+                        <a class="btn-floating btn-large waves-effect waves-light  tooltipped" data-position="left" data-delay="50" data-tooltip="Previous Post" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">
+                            <i class="mdi-navigation-chevron-right"></i>
                         </a>
                     {% endif %}
                     {% if page.next.url %}
-                        <a style="margin-left: 25px" class="btn-floating btn-large waves-effect waves-light tooltipped " data-position="right" data-delay="50" data-tooltip="Categories" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">
-                            <i class="mdi-navigation-chevron-right"></i>
+                        <a style="margin-left: 25px" class="btn-floating btn-large waves-effect waves-light tooltipped " data-position="right" data-delay="50" data-tooltip="Next Post" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">
+                            <i class="mdi-navigation-chevron-left"></i>
                         </a>
                     {% endif %}
                 </div>
