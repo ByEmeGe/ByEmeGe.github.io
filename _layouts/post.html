@@ -23,7 +23,7 @@
                                     {% endif %}
                             </div>
                         {% endif %}
-                        <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+                        <h3 class="meta text_b">{{ page.date | date: "%B %-d, %Y" }}</h3>
                     </div>
                 </div>
             </div>
@@ -38,20 +38,8 @@
                     <!-- POST CONTENT -->
                     {{ content }}
                     <br><br>
-
-                    {% if post %}
-                        {% assign categories = post.categories %}
-                    {% else %}
-                        {% assign categories = page.categories %}
-                    {% endif %}
-                    <div style="margin-top: 50px">
-                        {% for category in categories %}
-                            <div class="chip">
-                                <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-                            </div>
-                        {% endfor %}
-                    </div>
-
+                    <!--POST CATEGORIES-->
+                    {% include post_categories.html %}
                     <br><br>
                     <!--PAGER-->
                     {% include pager.html %}
