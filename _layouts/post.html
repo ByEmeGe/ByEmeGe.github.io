@@ -61,7 +61,9 @@
     <!--RELATED POSTS-->
     <div class="relatedPosts">
         <div class="container">
-
+            <h4>You May Also Enjoy</h4>
+            <div class="row">
+                <div>
                     {% assign maxRelated = 3 %}
                     {% assign minCommonTags =  1 %}
                     {% assign maxRelatedCounter = 0 %}
@@ -80,9 +82,6 @@
                             {% endif %}
                         {% endfor %}
                         {% if sameTagCount >= minCommonTags %}
-            <h4>You May Also Enjoy</h4>
-            <div class="row">
-                <div>
                             <div class="col s12 m10 offset-m1 l4">
                                 <div class="card">
                                     <div class="card-image waves-effect waves-block waves-light">
@@ -116,6 +115,38 @@
                             {% if maxRelatedCounter >= maxRelated %}
                                 {% break %}
                             {% endif %}
+                        {% elsif %}
+                            {% for post in site.posts limit:6%}
+                                <div class="col s12 m10 offset-m1 l4">
+                                    <div class="card">
+                                        <div class="card-image waves-effect waves-block waves-light">
+                                            <img class="activator" src="../{% if post.featured-img %}{{ post.featured-img }}{% else %}../posts_img/default.jpg{% endif %}">
+                                        </div>
+                                        <div class="card-content">
+                                            <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
+                                            <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+                                        </div>
+                                        <div class="card-reveal">
+                                            <span class="card-title grey-text text-darken-4">{{ post.date | date: "%B %-d, %Y"}} <i class="mdi-navigation-close right"></i></span>
+
+                                            <br>
+                                            <h5 class="grey-text text-darken-4">{{ post.title }} </h5>
+                                            <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
+                                            <div class="post-categories">
+                                                {% if post %}
+                                                {% assign categories = post.categories %}
+                                                {% else %}
+                                                {% assign categories = page.categories %}
+                                                {% endif %}
+                                                {% for category in categories %}
+                                                <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                                                {% unless forloop.last %}|&nbsp;{% endunless %}
+                                                {% endfor %}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            {% endfor %}
                         {% endif %}
                     {% endfor %}
                 </div>
