@@ -39,7 +39,7 @@
                     {{ content }}
                     <br><br>
                     <div class="container"style="margin-top: 50px">
-                        {% for category in post.categories %}
+                        {% for category in page.categories %}
                         {% capture category_name %}{{ category | first }}{% endcapture %}
                         <div class="chip">
                             <a href="#{{ category_name }}" > {{ category_name }}</a>
