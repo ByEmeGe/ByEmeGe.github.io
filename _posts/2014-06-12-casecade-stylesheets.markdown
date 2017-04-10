@@ -4,7 +4,6 @@ date: 2014-06-12 04:07:49 Z
 categories:
 - Frontend
 layout: post
-featured-img: posts_img/7.jpg
 featured: false
 comments: true
 ---
