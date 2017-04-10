@@ -29,8 +29,8 @@ layout: page
 
                     <div class="col s12 m10 offset-m1 l4">
                         <div class="card">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="../{% if post.featured-img %}{{ post.featured-img }}{% else %}../posts_img/default.jpg{% endif %}">
+                            <div class="card-image waves-effect waves-block waves-light" style="background: url('{{site.url}}{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;">
+                                <!--<img class="activator" src="{% if post.featured-img %}{{ site.url }}{{ post.featured-img }}{% else %}{{ site.blogdefaultimgurl }}{% endif %}">-->
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
