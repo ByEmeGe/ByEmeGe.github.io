@@ -244,3 +244,12 @@ html, body { overflow-x:hidden}
 .card-image{
   min-height:230px !important;
 }
+.ar-filter{
+  background: rgba(67, 206, 162,0.55);
+  background: linear-gradient(to right, rgba(24, 90, 157,0.35),rgba(67, 206, 162,0.55));
+  background: -webkit-linear-gradient(to right, rgba(24, 90, 157,0.35),rgba(67, 206, 162,0.55));
+  min-height: 632px;
+  max-height: 864px;
+  min-width: 100%;
+
+}
