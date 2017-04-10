@@ -5,6 +5,7 @@ categories:
 - Jekyll
 layout: post
 featured: false
+featured-img: posts_img/3.jpg
 comments: true
 ---
 

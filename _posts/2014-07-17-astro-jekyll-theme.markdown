@@ -5,7 +5,7 @@ categories:
 - Jekyll
 - Themes
 layout: post
-featured-img: posts_img/Forest.jpg
+featured-img: posts_img/2.jpg
 featured: false
 comments: true
 ---

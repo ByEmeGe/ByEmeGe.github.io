@@ -5,7 +5,7 @@ categories:
 - Developer
 - Workflow
 layout: post
-featured-img: posts_img/landscape.jpg
+featured-img: posts_img/4.jpg
 featured: true
 comments: true
 author: EmeGe

@@ -4,7 +4,7 @@ date: 2014-06-18 04:07:49 Z
 categories:
 - Frontend
 layout: post
-banner_image: "/media/mobile.jpg"
+featured-img: posts_img/6.jpg
 featured: false
 comments: true
 ---

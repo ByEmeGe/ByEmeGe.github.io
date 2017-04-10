@@ -5,9 +5,10 @@ categories:
 - Video
 - Frontend
 layout: post
-banner_image: ''
+featured-img: posts_img/5.jpg
 featured: false
 comments: true
+
 ---
 
 This video is a collaboration between Sheldon Neill and Colin Delehanty. All timelapses were shot on the Canon 5D Mark II with a variety of Canon L and Zeiss CP.2 Lenses.
