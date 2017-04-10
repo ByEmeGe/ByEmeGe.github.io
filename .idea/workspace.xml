@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts_img/4.jpg" afterPath="$PROJECT_DIR$/posts_img/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/blog-posts_cards.html" afterPath="$PROJECT_DIR$/_includes/blog-posts_cards.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-single_related.html" afterPath="$PROJECT_DIR$/_includes/post-single_related.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-06-12-casecade-stylesheets.markdown" afterPath="$PROJECT_DIR$/_posts/2014-06-12-casecade-stylesheets.markdown" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,40 +39,19 @@
         <entry file="file://$PROJECT_DIR$/_includes/post-single_related.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="395">
-              <caret line="26" column="401" selection-start-line="26" selection-start-column="401" selection-end-line="26" selection-end-column="401" />
+              <caret line="26" column="285" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-06-12-casecade-stylesheets.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-06-12-casecade-stylesheets.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-06-18-responive-and-mobile-web-design.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-06-18-responive-and-mobile-web-design.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-posts_cards.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog-posts_cards.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -152,12 +130,12 @@
         <option value="$PROJECT_DIR$/_includes/blog_paginator.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
-        <option value="$PROJECT_DIR$/_includes/blog-posts_cards.html" />
         <option value="$PROJECT_DIR$/_includes/post-single_header.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/categories.html" />
-        <option value="$PROJECT_DIR$/_includes/post-single_related.html" />
         <option value="$PROJECT_DIR$/_posts/2014-06-12-casecade-stylesheets.markdown" />
+        <option value="$PROJECT_DIR$/_includes/post-single_related.html" />
+        <option value="$PROJECT_DIR$/_includes/blog-posts_cards.html" />
       </list>
     </option>
   </component>
@@ -391,7 +369,7 @@
       <workItem from="1491314511602" duration="3454000" />
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
-      <workItem from="1491697676971" duration="17091000" />
+      <workItem from="1491697676971" duration="17389000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -740,7 +718,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114770000" />
+    <option name="totallyTimeSpent" value="115068000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1091,24 +1069,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-06-18-responive-and-mobile-web-design.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post-single_related.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="26" column="401" selection-start-line="26" selection-start-column="401" selection-end-line="26" selection-end-column="401" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,11 +1085,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-06-18-responive-and-mobile-web-design.markdown">
+    <entry file="file://$PROJECT_DIR$/_includes/post-single_related.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="395">
+          <caret line="26" column="285" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
