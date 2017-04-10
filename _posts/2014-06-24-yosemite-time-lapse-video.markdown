@@ -5,9 +5,6 @@ categories:
 - Video
 - Frontend
 layout: post
-featured-img: posts_img/5.jpg
-featured: false
-comments: true
 
 ---
 
