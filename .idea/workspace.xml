@@ -89,8 +89,8 @@
       <file leaf-file-name="blog-posts_cards.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="162" />
+            <state relative-caret-position="102">
+              <caret line="6" column="243" selection-start-line="6" selection-start-column="243" selection-end-line="6" selection-end-column="243" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -111,11 +111,9 @@
       <file leaf-file-name="post-single_header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/post-single_header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="63" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="63" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -406,7 +404,7 @@
       <workItem from="1491314511602" duration="3454000" />
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
-      <workItem from="1491697676971" duration="13715000" />
+      <workItem from="1491697676971" duration="13972000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -755,7 +753,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111394000" />
+    <option name="totallyTimeSpent" value="111651000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1005,16 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post-single_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="63" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-19-javascript-design-patterns-introduction.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1129,10 +1117,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post-single_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="162" />
+        <state relative-caret-position="102">
+          <caret line="6" column="243" selection-start-line="6" selection-start-column="243" selection-end-line="6" selection-end-column="243" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
