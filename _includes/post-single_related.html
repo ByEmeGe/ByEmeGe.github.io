@@ -27,6 +27,11 @@
                                 <div class="card-image waves-effect waves-block waves-light" style= {%if post.featured-img %} "background: url('{{site.url}}{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;"{% else %} "background:#43cea2; background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  background: linear-gradient(to right, #185a9d, #43cea2);{% endif %}">
                                 <div class="ar-filter" style="margin: 0 !important;"></div>
                             </div>
+                            <script>
+                                $(‘.ar-filter’).hover(
+                                        function(){$(this).toggleClass(‘waves-light’);}
+                                );
+                            </script>
 
                                 <div class="card-content">
                                     <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
