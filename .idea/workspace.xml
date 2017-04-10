@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="" />
+    <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/blog-posts_cards.html" afterPath="$PROJECT_DIR$/_includes/blog-posts_cards.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-single_header.html" afterPath="$PROJECT_DIR$/_includes/post-single_header.html" />
+    </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -84,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-posts_cards.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog-posts_cards.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="178" selection-start-line="6" selection-start-column="178" selection-end-line="6" selection-end-column="178" />
+              <caret line="6" column="186" selection-start-line="6" selection-start-column="186" selection-end-line="6" selection-end-column="186" />
               <folding />
             </state>
           </provider>
@@ -104,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-single_header.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post-single_header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/post-single_header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="51">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -167,7 +170,6 @@
         <option value="$PROJECT_DIR$/_includes/related_posts.html" />
         <option value="$PROJECT_DIR$/_includes/post_heading.html" />
         <option value="$PROJECT_DIR$/_includes/slide_single.html" />
-        <option value="$PROJECT_DIR$/_includes/post-single_header.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2014-07-19-javascript-design-patterns-introduction.markdown" />
@@ -181,6 +183,7 @@
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/_includes/blog-posts_cards.html" />
+        <option value="$PROJECT_DIR$/_includes/post-single_header.html" />
       </list>
     </option>
   </component>
@@ -400,7 +403,7 @@
       <workItem from="1491314511602" duration="3454000" />
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
-      <workItem from="1491697676971" duration="14889000" />
+      <workItem from="1491697676971" duration="15585000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -749,7 +752,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112568000" />
+    <option name="totallyTimeSpent" value="113264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1113,18 +1116,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post-single_header.html">
+    <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="102">
+          <caret line="6" column="186" selection-start-line="6" selection-start-column="186" selection-end-line="6" selection-end-column="186" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/blog-posts_cards.html">
+    <entry file="file://$PROJECT_DIR$/_includes/post-single_header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="178" selection-start-line="6" selection-start-column="178" selection-end-line="6" selection-end-column="178" />
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
