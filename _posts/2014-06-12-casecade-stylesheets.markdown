@@ -4,8 +4,6 @@ date: 2014-06-12 04:07:49 Z
 categories:
 - Frontend
 layout: post
-featured: false
-comments: true
 ---
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation semantics (the look and formatting) of a document written in a markup language. Its most common application is to style web pages written in HTML and XHTML, but the language can also be applied to any kind of XML document, including plain XML, SVG and XUL.
