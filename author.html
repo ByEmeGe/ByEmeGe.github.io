@@ -11,7 +11,7 @@ layout: page
                 <div class="card-image waves-effect waves-block waves-light" style="background: url('{{author.gravatar}}');">
                     <!--<img class="activator" src="{% if post.featured-img %}{{ site.url }}{{ post.featured-img }}{% else %}{{ site.blogdefaultimgurl }}{% endif %}">-->
                 </div>
-            </div>
+
             <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">{{author.name}}<i class="mdi-navigation-more-vert right"></i></span>
             </div>
@@ -22,6 +22,8 @@ layout: page
                 <h5 class="grey-text text-darken-4">{{author.role}} </h5>
                 <p>{{author.bio}}</p>
             </div>
+
+        </div>
         </div>
     {% endfor %}
 </div></div>
