@@ -6,8 +6,9 @@
                     <!--<img src="{{ author.email | gravatar }}" alt="Contact Person">-->
                     <img src="{{ author.gravatar }}" alt="Contact Person">
                     {{ author.name }}
+                {% else}
+                    {% break %}
                 {% endif %}
-                {% break %}
             {% endfor %}
         </div>
     {% endif %}
