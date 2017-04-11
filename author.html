@@ -6,6 +6,7 @@ layout: page
 
 <ul>
     {% for author in site.data.authors %}
+    {% assign author = site.data.authors[author] %}
     <li>
         <h1>
             {{ author.name }}
