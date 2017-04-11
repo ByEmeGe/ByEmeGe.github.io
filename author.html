@@ -4,9 +4,12 @@ permalink: "/authors/"
 layout: page
 ---
 
-{% if site.data.authors %}
-    <p>Existen</p>
-    <!--{% for author in site.data.authors %}-->
-{% else %}
-    <p> No Existen</p>
-{% endif %}
+<ul>
+    {% for author in site.data.authors %}
+    <li>
+        <a href="https://github.com/{{ member.github }}">
+            {{ author.name }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
