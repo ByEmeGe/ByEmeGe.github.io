@@ -76,9 +76,9 @@ description: " - Material your Jekyll"
 
           <div class="col s12 m10 offset-m1 l4">
               <div class="card">
-                   <div class="card-image  waves-block " style= {%if post.featured-img %} "background: url('{{site.url}}{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;"{% else %} "background:#43cea2; background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  background: linear-gradient(to right, #185a9d, #43cea2);{% endif %}">
-                        <div class="waves-effect waves-arume" style="margin: 0 !important;"></div>
-                   </div>
+                  <div class="card-image waves-effect waves-block waves-light" style="background: url('{{site.url}}{{post.featured-img}}');background-size: cover; background-position: center; background-repeat: no-repeat;">
+                      <!--<img class="activator" src="{% if post.featured-img %}{{ site.url }}{{ post.featured-img }}{% else %}{{ site.blogdefaultimgurl }}{% endif %}">-->
+                  </div>
                   <div class="card-content">
                       <span class="card-title activator grey-text text-darken-4">{{ post.title | truncate: 15}} <i class="mdi-navigation-more-vert right"></i></span>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
