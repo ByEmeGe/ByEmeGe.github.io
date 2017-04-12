@@ -5,7 +5,8 @@ layout: page
 ---
 
 <div class="container"style="margin-top: 50px">
-    {% for category in site.categories %}
+    {% assign sortedCategories = site.categories | sort %}
+    {% for category in sortedCategories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div class="chip">
         <a href="#{{ category_name }}" > {{ category_name }}</a>
