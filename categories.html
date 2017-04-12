@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div class="container"style="margin-top: 50px">
-    {% assign sorted_cats = (site.categories | sort: 'title') %}
+    {% assign sorted_cats = (site.categories[1] | sort: 'title') %}
     {% for category in sorted_cats %}
         {% capture category_name %}{{ category }}{% endcapture %}
         <div class="chip">
