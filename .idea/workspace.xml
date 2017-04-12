@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-07-16-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories.html" afterPath="$PROJECT_DIR$/categories.html" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,12 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-04-09-Obsessed-Lights.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-04-09-Obsessed-Lights.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="16" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/categories.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,7 +151,6 @@
         <option value="$PROJECT_DIR$/_posts/2014-06-12-casecade-stylesheets.markdown" />
         <option value="$PROJECT_DIR$/_includes/blog-posts_cards.html" />
         <option value="$PROJECT_DIR$/_posts/2014-06-24-yosemite-time-lapse-video.markdown" />
-        <option value="$PROJECT_DIR$/categories.html" />
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/post-single_header.html" />
@@ -151,6 +163,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-17-astro-jekyll-theme.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-16-welcome-to-jekyll.markdown" />
+        <option value="$PROJECT_DIR$/categories.html" />
       </list>
     </option>
   </component>
@@ -380,7 +393,7 @@
       <workItem from="1491314511602" duration="3454000" />
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
-      <workItem from="1491697676971" duration="37414000" />
+      <workItem from="1491697676971" duration="37505000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -729,7 +742,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135093000" />
+    <option name="totallyTimeSpent" value="135184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -742,10 +755,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26119402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26119402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1102,17 +1115,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post-single_heading.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1150,6 +1152,17 @@
         <state relative-caret-position="34">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
