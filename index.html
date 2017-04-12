@@ -91,11 +91,11 @@ description: " - Material your Jekyll"
                       <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 80 }}</p>
                       <div class="post-categories">
                           {% if post %}
-                          {% assign categories = post.categories %}
+                                {% assign categories = post.categories | sort: 'title'%}
                           {% else %}
-                          {% assign categories = page.categories %}
+                                {% assign categories = page.categories | sort: 'title'%}
                           {% endif %}
-                          {% for category in categories %}
+                          {% for category in categories | sort: 'title' %}
                           <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
                           {% unless forloop.last %}|&nbsp;{% endunless %}
                           {% endfor %}
