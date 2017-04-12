@@ -1,12 +1,10 @@
 ---
-title: Welcome to Jekyll!
-date: 2014-07-16 04:07:49 Z
+title: Obsessed Lights
+date: 2017-04-09
 categories:
-- Jekyll
-layout: post
-featured: false
+- Lights
+- Pro
 featured-img: posts_img/3.jpg
-comments: true
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
