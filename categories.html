@@ -3,9 +3,8 @@ title: Categories
 permalink: "/categories/"
 layout: page
 ---
-
 <div class="container"style="margin-top: 50px">
-{% for category in site.categories %}
+{% for category in site.categories | sort%}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div class="chip">
         <a href="#{{ category_name }}" > {{ category_name }}</a>
@@ -15,7 +14,7 @@ layout: page
 
 
 <div id="archives">
-    {% for category in site.categories  %}
+    {% for category in site.categories  | sort%}
     <div class="archive-group">
         {% capture category_name %}{{ category | first }}{% endcapture %}
         <div class="section scrollspy" id="{{ category_name | slugize }}">
