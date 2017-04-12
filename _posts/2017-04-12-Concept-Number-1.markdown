@@ -2,8 +2,8 @@
 title: Concept Number 1
 date: 2017-04-12
 categories:
-- Patterns
 - Themes
+- Concept
 layout: post
 featured-img: posts_img/1.jpg
 author: robert_rawlins
