@@ -1,13 +1,11 @@
 ---
-title: Prueba numero 1
-date: 2014-07-19 04:07:49 Z
+title: Concept Number 1
+date: 2017-04-12
 categories:
 - Patterns
 - Themes
 layout: post
 featured-img: posts_img/1.jpg
-featured: true
-comments: true
 author: robert_rawlins
 ---
 
