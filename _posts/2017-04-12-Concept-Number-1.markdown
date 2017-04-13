@@ -5,6 +5,7 @@ categories:
 - Themes
 - Concept
 layout: post
+image:{{blogimgurl}}/1.jpg
 featured-img: posts_img/1.jpg
 author: robert_rawlins
 ---
