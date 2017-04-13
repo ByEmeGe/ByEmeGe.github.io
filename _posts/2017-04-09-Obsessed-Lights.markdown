@@ -5,6 +5,7 @@ categories:
 - Lights
 - Pro
 featured-img: posts_img/3.jpg
+image:{{blogimgurl}}/3.jpg
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
