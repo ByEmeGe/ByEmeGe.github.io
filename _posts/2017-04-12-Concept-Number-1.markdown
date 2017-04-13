@@ -5,7 +5,9 @@ categories:
 - Themes
 - Concept
 layout: post
-image:{{blogimgurl}}/1.jpg
+image: https://byemege.github.io/posts_img//1.jpg
+imageW: 400
+imageH: 300
 featured-img: posts_img/1.jpg
 author: robert_rawlins
 ---

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown" afterPath="$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown" afterPath="$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="26" />
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -60,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -435,7 +436,7 @@
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
       <workItem from="1491697676971" duration="44817000" />
-      <workItem from="1492034885953" duration="5887000" />
+      <workItem from="1492034885953" duration="6162000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -784,7 +785,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148383000" />
+    <option name="totallyTimeSpent" value="148658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1157,14 +1158,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
@@ -1175,10 +1168,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
           <folding />
         </state>
       </provider>
