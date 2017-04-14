@@ -2,7 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/Blog/2017/2/Carnaval.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/Blog/2017/g4229.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/Blog/2017/g4848.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/castrelo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/feder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/headshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/hero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/mail_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161116-WA0003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161116-WA0005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161117-WA0006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161117-WA0007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/WP_20161113_21_48_29_Pro_LI.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa5.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa6.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/tlf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/tlf_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/xunta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/fonts/Pompiere-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/123" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/123.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/123.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/entry1491403989087.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/esto es-una-pr/entry1491395316375.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/esto es-una-prueba/entry1491395433583.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/analytics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/comment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-github.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-github.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-twitter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_layouts/page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_layouts/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_posts/2016-07-23-welcome-to-jekyll.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_posts/2017-03-09-esto es-una-pr.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_posts/2017-03-09-esto es-una-prueba.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/cookies.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/feed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/nos.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/cards.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/forms.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/lists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/lists.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/misc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/misc.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/misc.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/normalize.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/prueba.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/skeleton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/skeleton.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/skeleton.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/syntax-highlighting.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/syntax-highlighting.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/syntax-highlighting.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/top.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/typography.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/util.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/util.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/util.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
@@ -42,16 +141,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -100,14 +189,24 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="494" column="0" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
+            <state relative-caret-position="767">
+              <caret line="493" column="0" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/old/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="781">
@@ -192,8 +291,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown" />
         <option value="$PROJECT_DIR$/assets/css/critical.scss" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
       </list>
     </option>
   </component>
@@ -269,143 +368,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="materialize.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_data" />
+              <option name="myItemId" value="old" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -505,7 +468,7 @@
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
       <workItem from="1491697676971" duration="44817000" />
-      <workItem from="1492034885953" duration="7948000" />
+      <workItem from="1492034885953" duration="8764000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -854,7 +817,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150444000" />
+    <option name="totallyTimeSpent" value="151260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -867,13 +830,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2675906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2675906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -886,7 +850,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -915,7 +878,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/pagination.html" />
     <entry file="file://$PROJECT_DIR$/_plugins/gravatar.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1251,18 +1213,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="494" column="0" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="781">
           <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="493" column="0" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

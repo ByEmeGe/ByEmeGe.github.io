@@ -1,0 +1,48 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="theme-color" content="#BBDEFB">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="Blog da Casa Niño 'Os Paxariños' do Concello de Castrelo de Miño" >
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script>
+    window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#eaf7f7",
+            "text": "#5c7291"
+          },
+          "button": {
+            "background": "transparent",
+            "text": "#56cbdb",
+            "border": "#56cbdb"
+          }
+        },
+        "position": "top",
+        "static": true,
+        "content": {
+          "message": "Esta Web utiliza cookies para mellorar a experiencia de usuario.",
+          "dismiss": "Entendo!",
+          "link": "Ler máis",
+          "href": "/cookies"
+        }
+      })});
+  </script>
+
+
+
+</head>
