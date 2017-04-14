@@ -2,55 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/Blog/2017/2/Carnaval.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/Blog/2017/g4229.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/Blog/2017/g4848.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/castrelo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/feder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/headshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/hero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/mail_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161116-WA0003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161116-WA0005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161117-WA0006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161117-WA0007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/WP_20161113_21_48_29_Pro_LI.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa5.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/nos/casa6.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/tlf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/tlf_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/xunta.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/fonts/Pompiere-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/home.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/cookies.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/feed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/nos.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/cards.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/forms.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/forms.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/_config.yml" afterPath="$PROJECT_DIR$/old/_config.yml" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
@@ -136,8 +87,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/old/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -401,7 +352,7 @@
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
       <workItem from="1491697676971" duration="44817000" />
-      <workItem from="1492034885953" duration="8840000" />
+      <workItem from="1492034885953" duration="8932000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -750,7 +701,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151336000" />
+    <option name="totallyTimeSpent" value="151428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1165,8 +1116,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/old/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
