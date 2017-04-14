@@ -43,3 +43,6 @@ gems:
 - jekyll-feed
 - jekyll-gravatar
 - jekyll-sitemap
+
+
+include: ['.htaccess']

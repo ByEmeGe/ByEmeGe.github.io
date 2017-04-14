@@ -2,7 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d002e2-21fb-4dad-b702-d576d27a6c5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/_config.yml" afterPath="$PROJECT_DIR$/old/_config.yml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/123" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/123.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/123.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/comments/1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/comments/entry1491403989087.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/comments/esto es-una-pr/entry1491395316375.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_data/comments/esto es-una-prueba/entry1491395433583.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/analytics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/icon-github.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/icon-github.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/icon-twitter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_includes/icon-twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_posts/2016-07-23-welcome-to-jekyll.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_posts/2017-03-09-esto es-una-pr.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/_posts/2017-03-09-esto es-una-prueba.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/Blog/2017/2/Carnaval.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/Blog/2017/g4229.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/Blog/2017/g4848.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/castrelo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/feder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/headshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/hero.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/mail_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161116-WA0003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161116-WA0005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161117-WA0006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/IMG-20161117-WA0007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/WP_20161113_21_48_29_Pro_LI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/casa1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/casa2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/casa3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/casa4.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/casa5.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/nos/casa6.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/tlf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/tlf_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/www/xunta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/main.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/nos.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/cards.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/cards.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/fonts/Pompiere-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/forms.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/grid.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/links.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/links.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/links.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/lists.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/lists.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/misc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/misc.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/misc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/normalize.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/prueba.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/site.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/skeleton.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/skeleton.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/skeleton.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/syntax-highlighting.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/syntax-highlighting.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/syntax-highlighting.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/top.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/top.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/top.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/typography.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/typography.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/util.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/util.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/sass/util.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,16 +123,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-04-09-Obsessed-Lights.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="arume.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/arume.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,31 +163,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old/css/main.css">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="0" column="675" selection-start-line="0" selection-start-column="675" selection-end-line="0" selection-end-column="675" />
-              <folding />
+            <state relative-caret-position="3017">
+              <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
+              <folding>
+                <marker date="1489072201068" expanded="true" signature="487:3924" ph="&lt;IfModule mod_expires.c&gt;" />
+                <marker date="1489072201068" expanded="true" signature="4146:7906" ph="&lt;IfModule mod_deflate.c&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/old/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="799">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -157,7 +239,6 @@
         <option value="$PROJECT_DIR$/blog/index.min.html" />
         <option value="$PROJECT_DIR$/assets/css/arume.css" />
         <option value="$PROJECT_DIR$/assets/css/materialize.scss" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/pager.html" />
         <option value="$PROJECT_DIR$/_includes/post_categories.html" />
         <option value="$PROJECT_DIR$/_includes/related_posts.html" />
@@ -191,6 +272,7 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/old/_config.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -352,7 +434,7 @@
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
       <workItem from="1491697676971" duration="44817000" />
-      <workItem from="1492034885953" duration="8932000" />
+      <workItem from="1492034885953" duration="9004000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -701,7 +783,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151428000" />
+    <option name="totallyTimeSpent" value="151500000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -714,10 +796,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2675906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2675906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -762,13 +844,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3111">
-          <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/materialize.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1098,6 +1173,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3017">
+          <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
+          <folding>
+            <marker date="1489072201068" expanded="true" signature="487:3924" ph="&lt;IfModule mod_expires.c&gt;" />
+            <marker date="1489072201068" expanded="true" signature="4146:7906" ph="&lt;IfModule mod_deflate.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/old/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1108,16 +1202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="799">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding />
         </state>
       </provider>
