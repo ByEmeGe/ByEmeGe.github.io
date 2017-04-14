@@ -9,7 +9,7 @@
 title: Os Paxariños
 email: ospaxarinhos@gmail.com
 description:  <center><h2>Blog da Casa niño "Os paxariños".</h2></center>
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/old" # the subpath of your site, e.g. /blog
 url: "https://byemege.github.io/" # the base hostname & protocol for your site
 
 # Build settings

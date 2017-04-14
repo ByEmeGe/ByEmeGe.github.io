@@ -29,29 +29,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/123" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/123.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/123.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/entry1491403989087.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/esto es-una-pr/entry1491395316375.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_data/comments/esto es-una-prueba/entry1491395433583.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/analytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/comment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-github.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-github.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-twitter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_includes/icon-twitter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_layouts/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_layouts/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_layouts/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_posts/2016-07-23-welcome-to-jekyll.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_posts/2017-03-09-esto es-una-pr.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/_posts/2017-03-09-esto es-una-prueba.markdown" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/assets/www/home.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/cookies.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/css/main.css" />
@@ -72,37 +49,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.css.map" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/grid.scss" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/links.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/lists.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/lists.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/misc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/misc.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/misc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/normalize.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/prueba.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/site.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/skeleton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/skeleton.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/skeleton.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/syntax-highlighting.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/syntax-highlighting.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/syntax-highlighting.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/top.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/typography.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/util.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/util.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/sass/util.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/_config.yml" afterPath="$PROJECT_DIR$/old/_config.yml" />
     </list>
     <ignored path="ByEmeGe.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,28 +73,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="72" column="43" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="43" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-04-12-Concept-Number-1.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-Concept-Number-1.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-04-09-Obsessed-Lights.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-Obsessed-Lights.markdown">
           <provider selected="true" editor-type-id="text-editor">
@@ -196,11 +123,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/old/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="0" column="675" selection-start-line="0" selection-start-column="675" selection-end-line="0" selection-end-column="675" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/old/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -242,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/analytics.html" />
         <option value="$PROJECT_DIR$/commentsubmit.php" />
         <option value="$PROJECT_DIR$/_data/123" />
         <option value="$PROJECT_DIR$/_includes/comment.html" />
@@ -293,6 +239,7 @@
         <option value="$PROJECT_DIR$/assets/css/critical.scss" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/old/_config.yml" />
       </list>
     </option>
   </component>
@@ -355,20 +302,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ByEmeGe.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="old" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,7 +401,7 @@
       <workItem from="1491388225972" duration="56133000" />
       <workItem from="1491697624319" duration="38000" />
       <workItem from="1491697676971" duration="44817000" />
-      <workItem from="1492034885953" duration="8764000" />
+      <workItem from="1492034885953" duration="8840000" />
     </task>
     <task id="LOCAL-00060" summary="&#10;sdf">
       <created>1491432842511</created>
@@ -817,7 +750,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151260000" />
+    <option name="totallyTimeSpent" value="151336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -830,10 +763,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2675906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2675906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -878,13 +811,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_plugins/gravatar.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3111">
@@ -1131,14 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
@@ -1231,8 +1149,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/old/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="0" column="675" selection-start-line="0" selection-start-column="675" selection-end-line="0" selection-end-column="675" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
