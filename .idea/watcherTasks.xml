@@ -59,14 +59,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--type html $FilePath$ --mask *.dev.html  -o $ProjectFileDir$\$FileDirName$\$FileNameWithoutAllExtensions$.html" />
+      <option name="arguments" value="--type html $FilePath$   --mask *.html;*.dev.html -o $FileDir$\$FileNameWithoutAllExtensions$.html " />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Comprime archivos .html" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="html" />
       <option name="immediateSync" value="true" />
       <option name="name" value="HTML Compressor" />
-      <option name="output" value="$ProjectFileDir$\$FileNameWithoutAllExtensions$.html" />
+      <option name="output" value="$FileDir$\$FileNameWithoutAllExtensions$.html" />
       <option name="outputFilters">
         <array />
       </option>
