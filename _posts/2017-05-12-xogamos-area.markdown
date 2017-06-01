@@ -4,6 +4,7 @@ date: 2017-05-12
 categories:
 - Actividade
 - Natureza
+- Xogo
 layout: post
 featured-img: posts_img/2017/5/12/2017-05-12.jpg
 ---
