@@ -5,7 +5,7 @@ categories:
 - Actividade
 - Pintura
 layout: post
-featured-img: posts_img/2017/6/2/2017-06-1.jpg
+featured-img: posts_img/2017/6/1/2017-06-1.jpg
 ---
 
  <h5 class="center header text_h2">
