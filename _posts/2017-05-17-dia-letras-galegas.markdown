@@ -2,7 +2,7 @@
 title: Día das letras galegas
 date: 2017-05-17
 categories:
-- Actividade
+- Manualidade
 - Festa
 layout: post
 featured-img: posts_img/2017/5/17/2017-05-17.jpg
