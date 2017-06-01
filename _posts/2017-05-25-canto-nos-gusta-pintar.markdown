@@ -5,7 +5,7 @@ categories:
 - Actividade
 - Pintura
 layout: post
-featured-img: posts_img/2017/2017-05-25/2017-05-25.jpg
+featured-img: posts_img/2017/5/25/2017-05-25.jpg
 ---
 
 <h5 class="center header text_h2">
@@ -18,6 +18,6 @@ featured-img: posts_img/2017/2017-05-25/2017-05-25.jpg
 
 <div class="row">
     <div class="col s12 m12">
-        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-25/2017-05-25.jpg">
+        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/25/2017-05-25.jpg">
     </div>
 </div>

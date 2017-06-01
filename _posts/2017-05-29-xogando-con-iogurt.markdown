@@ -4,7 +4,7 @@ date: 2017-05-29
 categories:
 - Actividade
 layout: post
-featured-img: posts_img/2017/2017-05-29/2017-05-29.jpg
+featured-img: posts_img/2017/5/29/2017-05-29.jpg
 ---
 
 <h5 class="center header text_h2">
@@ -18,6 +18,6 @@ featured-img: posts_img/2017/2017-05-29/2017-05-29.jpg
 
 <div class="row">
     <div class="col s12 m12">
-        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-29/2017-05-29.jpg">
+        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/29/2017-05-29.jpg">
     </div>
 </div>

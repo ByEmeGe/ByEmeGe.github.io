@@ -5,7 +5,7 @@ categories:
 - Actividade
 - Baile
 layout: post
-featured-img: posts_img/2017/2017-05-26/2017-05-26.jpg
+featured-img: posts_img/2017/5/26/2017-05-26.jpg
 ---
 
 <h5 class="center header text_h2">
@@ -19,6 +19,6 @@ featured-img: posts_img/2017/2017-05-26/2017-05-26.jpg
 
 <div class="row">
     <div class="col s12 m12">
-        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-26/2017-05-26.jpg">
+        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/26/2017-05-26.jpg">
     </div>
 </div>

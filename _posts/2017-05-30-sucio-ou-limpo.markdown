@@ -3,7 +3,7 @@ title: Sucio ou Limpo?
 date: 2017-05-30
 categories:
 - Actividade
-featured-img: posts_img/2017/2017-05-30/2017-05-30.jpg
+featured-img: posts_img/2017/5/30/2017-05-30.jpg
 layout: post
 ---
 
@@ -18,9 +18,9 @@ layout: post
 
 <div class="row">
     <div class="col s12 m6">
-        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-30/2017-05-30.jpg">
+        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/30/2017-05-30.jpg">
     </div>
     <div class="col s12 m6">
-        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-30/2017-05-301.jpg">
+        <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/30/2017-05-301.jpg">
     </div>
 </div>
