@@ -3,6 +3,7 @@ title: Xogando con Iogurt
 date: 2017-05-29
 categories:
 - Actividade
+- Xogo
 layout: post
 featured-img: posts_img/2017/5/29/2017-05-29.jpg
 ---
