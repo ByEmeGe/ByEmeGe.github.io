@@ -8,10 +8,20 @@
  * Codyhouse.co
  */
 
+@font-face {
+  font-family: Pompiere;
+  src: url(../font/Pompiere-Regular.otf);
+}
+
+.paxarinho{
+  font-family: Pompiere !important;
+}
+
+.biog{
+  color: #1E88E5 !important;
+}
 .default_color{
-  background: #43cea2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #E8F5FF !important;
 }
 
 .default_color_text{color: #37ACA1 !important}
@@ -28,16 +38,12 @@
 	min-height: 632px;
 	max-height: 864px;
 	position: relative;
-  background: #43cea2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background-image:url('../img/hero.png');
 }
 #blog-banner {
   position: relative;
-  background: #43cea2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-image:url('../img/hero2.png');
+  color: #80b3ff !important;
 
 }
 
@@ -50,44 +56,44 @@
 	padding: 15% 0;
 	font-size: 6.0em;
 	font-weight: 100;
-	color:white;
+	color: #80b3ff;
 }
 
 .brand-logo{
+  font-family: Pompiere;
   position: absolute;
-  color: #fff;
+  color: #80b3ff !important;
   display: inline-block;
-  font-size: 2.1rem;
+  font-size: 40px !important;
   font-style: normal;
   font-weight: 100;
   padding: 0;
-  letter-spacing: 7px;
 }
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #37ACA1;}
+.span_h2 {font-weight: 300;color: #80b3ff;}
 
-.text_b{color: #37ACA1;}
+.text_b{color: #80b3ff;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-	color: #37ACA1;
+	color: #80b3ff;
 	font-size: 7rem;
 	display: block;
 }
-.card-content a {color: #37ACA1;}
+.card-content a {color: #80b3ff;}
 
-.card-content a:hover {color: #37ACA1;}
+.card-content a:hover {color: #80b3ff;}
 
-#work{background: rgb(247, 247, 247);}
+#work{background: White}
 
 .text_pink{color:#EF9A9A;}
 
 nav ul a {
   font-size: 1.2rem;
-  color: #FFF;
+  color: #80b3ff !important;
   letter-spacing: 2px;
   display: block;
   font-weight: 300;
@@ -125,13 +131,13 @@ xtype
   animation: cd-pulse 1s infinite;
 }
 .cd-headline.type .cd-words-wrapper.selected {
-  background-color: #FFF;
+  background-color: rgba(128,179,255,0.5);
 }
 .cd-headline.type .cd-words-wrapper.selected::after {
   visibility: hidden;
 }
 .cd-headline.type .cd-words-wrapper.selected b {
-  color: #37ACA1;
+  color: #E8F5FF !important;
 }
 .cd-headline.type b {
   visibility: hidden;
@@ -232,7 +238,7 @@ xtype
   padding: 4% 0;
   font-size: 5em;
   font-weight: 100;
-  color: white;
+    font-family: Pompiere;
   }
 }
 
@@ -259,3 +265,4 @@ html, body { overflow-x:hidden}
   background: linear-gradient(to right, rgba(24, 90, 157,0.35),rgba(67, 206, 162,0.55));
   background: -webkit-linear-gradient(to right, rgba(24, 90, 157,0.35),rgba(67, 206, 162,0.55));
 }
+

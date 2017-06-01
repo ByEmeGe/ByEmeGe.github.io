@@ -1,22 +1,22 @@
 ---
-title: Yosemite Time-lapse Video
-date: 2014-06-24 04:07:49 Z
+title: Descubrindo as froitas
+date: 2017-05-22
 categories:
-- Video
-- Frontend
+- Actividade
+- Natureza
 layout: post
-
+featured-img: posts_img/2017/2017-05-22/2017-05-22.jpg
 ---
 
-This video is a collaboration between Sheldon Neill and Colin Delehanty. All timelapses were shot on the Canon 5D Mark II with a variety of Canon L and Zeiss CP.2 Lenses.
+ <h5 class="center header text_h2">
+     Esta actividade consiste en aportar diferentes froitas para que os paxariños o mesmo tempo que xogan con elas as poidan probar.
+     <!--more-->
+     Para elo partiremos as froitas por a metade para que poidan ver o seu interior e as exploren, o mesmo tempo que desenrolan os
+      sentidos do gusto cos distintos sabores, o tacto xa que cada froita ten a súa textura e a vista por as cores de cada unha delas.
+ </h5>
 
-<!--more-->
-<div class="video-container">
-<iframe src="//player.vimeo.com/video/35396305?color=bc3d54" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div
-This whole project has been an amazing experience. The two of us became friends through Vimeo and explored a shared interest in timelapsing Yosemite National Park over an extended period of time. We'd like to expand this idea to other locations and would appreciate any suggestions for a future project.
-
-Project Yosemite Website: http://projectyose.com
-Facebook Page: http://facebook.com/projectyose
-Twitter: http://twitter.com/projectyose
-Contact info: info@projectyose.com
+ <div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-22/2017-05-22.jpg">
+     </div>
+ </div>

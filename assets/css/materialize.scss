@@ -2097,15 +2097,13 @@ img.responsive-img {
 
 footer.page-footer {
   padding-top: 20px;
-  background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color:#80b3ff !important;
 }
   footer.page-footer .footer-copyright {
     line-height: 50px;
     color: rgba(255, 255, 255, 0.8);
-    background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
-
+    color:#80b3ff !important;
+  }
 table, th, td {
   border: none; }
 
@@ -4971,7 +4969,7 @@ span.badge {
  }
 
 nav {
-  color: #fff;
+  color: #80b3ff !important;
   background-color: #ee6e73;
   width: 100%;
   height: 56px;
@@ -4980,7 +4978,7 @@ nav {
     position: relative;
     height: 100%; }
   nav a {
-    color: #fff; }
+    color: #80b3ff; }
   nav a.button-collapse {
     float: left;
     position: relative;
@@ -5318,8 +5316,8 @@ small {
   border-radius: 2px;
   background-clip: padding-box; }
   .card .card-title {
-    color: #fff;
-    font-size: 24px;
+    color: #0080ac !important;
+    font-size: 30px;
     font-weight: 300; }
     .card .card-title.activator {
       cursor: pointer; }
@@ -5598,7 +5596,7 @@ ul.tabs li.tab {
   height: 37px;
   line-height: 37px;
   padding: 0;
-  background-color: #2C909F;
+  background-color: #80b3ff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -5610,7 +5608,7 @@ ul.tabs li.tab {
   transition: 0.3s;
   cursor: pointer; }
 .btn-floating:hover {
-  background-color: #37ACA1;
+  background-color: #0080ac;
 }
   .btn-floating i {
     width: inherit;

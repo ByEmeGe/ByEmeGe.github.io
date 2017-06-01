@@ -1,5 +1,5 @@
 ---
-title: Arume
+title: Os paxariños
 timezone: UTC
 collections:
   posts:
@@ -8,31 +8,29 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 email: your-email@yourdomain.com
-
 copyright_name: Your/Project/Corporate Name
-
 description: Write your site description here. It will be used as your sites meta
   description as well!
 baseurl: ''
-
 url: https://byemege.github.io/
 blogurl: https://byemege.github.io/blog/
 caturl: https://byemege.github.io/categories
 blogimgurl: https://byemege.github.io/posts_img/
 blogdefaultimgurl: https://byemege.github.io/posts_img/default.jpg
-bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur.
+bio: Os Paxariños é unha casa niño que nace baixo o plan de Casas niño da Xunta de Galicia.
+     Atópase situada na localidade de Prado de Miño , no concello ourensán de Castrelo de Miño ,
+     enclave privilexiada polo seu entorno natural, rodeado de impresionantes viñas e con unhas
+      espectaculares vistas ao río Miño.
 twitter_username: SBootstrap
 github_username: davidtmiller
 facebook_username: StartBootstrap
 email_username: your-email@yourdomain.com
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 permalink: pretty
 paginate: 6
 paginate_path: "/blog/page:num/"
@@ -46,7 +44,3 @@ gems:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-gravatar
-- jekyll-sitemap
-
-
-include: ['.htaccess']
