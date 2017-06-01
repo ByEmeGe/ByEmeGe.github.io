@@ -33,7 +33,7 @@ kramdown:
   syntax_highlighter: rouge
 
 permalink: pretty
-paginate: 6
+paginate: 9
 paginate_path: "/blog/page:num/"
 exclude:
 - less
