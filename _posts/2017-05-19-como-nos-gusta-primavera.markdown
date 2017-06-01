@@ -5,7 +5,7 @@ categories:
 - Actividade
 - Natureza
 layout: post
-featured-img: 2017/2017-05-19/2017-05-19.jpg
+featured-img: posts_img/2017/5/19/2017-05-19.jpg
 ---
 
  <h5 class="center header text_h2">
@@ -17,6 +17,6 @@ featured-img: 2017/2017-05-19/2017-05-19.jpg
 
  <div class="row">
      <div class="col s12 m12">
-         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/2017-05-19/2017-05-19.jpg">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/5/19/2017-05-19.jpg">
      </div>
  </div>
