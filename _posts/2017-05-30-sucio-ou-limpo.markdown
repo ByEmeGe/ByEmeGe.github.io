@@ -8,7 +8,6 @@ layout: post
 ---
 
 <h5 class="center header text_h2">
-jhgfc jgfcjgfcgfcg
     Os paxariños aprenden os conceptos sucio-limpo.
     <!--more-->
     As actividades realizanse sempre dunha maneira divertida para que os nenos/as ademáis de xogar
