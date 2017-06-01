@@ -14,6 +14,7 @@ description: Write your site description here. It will be used as your sites met
   description as well!
 baseurl: ''
 url: https://byemege.github.io/
+nosurl: https://byemege.github.io/nos/
 blogurl: https://byemege.github.io/blog/
 caturl: https://byemege.github.io/categories
 blogimgurl: https://byemege.github.io/posts_img/
