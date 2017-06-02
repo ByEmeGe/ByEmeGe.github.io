@@ -12,9 +12,11 @@ featured-img: posts_img/2017/6/2/2017-06-2.jpg
 	A intervención da psicomotricidade na educación dos nenos/as faise de forma moi divertida e entretida.
  <!--more-->
 Mediante os xogos de movemento os cativos desarrolanse físicamente e aprenden novos conceptos como: arriba, abaixo, diante, detrás...
-Os paxariños pasaronno xenial saltando, bailando e imitando. A continuación mostramos un exemplo na que os nenos7as participaron con moitas ganas:
+Os paxariños pasaronno xenial saltando, bailando e imitando. A continuación mostramos un exemplo na que os nenos/as participaron con moitas ganas:
+
 
  - A galiña anacleta dí que fagamos a bicicleta.
  - O señor don gato dí que aplaudamos cos zapatos...
  
+
  Os distintos e variados xogos fomentará a súa coordinación, equilibrio, orienración e seguridade.
