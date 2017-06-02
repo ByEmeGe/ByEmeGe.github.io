@@ -3,7 +3,7 @@ title: Psicomotricidade
 date: 2017-06-2
 categories:
 - Actividade
-- xogo
+- Xogo
 layout: post
 featured-img: posts_img/2017/6/2/2017-06-2.jpg
 ---
