@@ -20,3 +20,8 @@ Os paxariños pasaronno xenial saltando, bailando e imitando. A continuación mo
  
 
  Os distintos e variados xogos fomentará a súa coordinación, equilibrio, orienración e seguridade.
+<div class="row">
+     <div class="col s12 m12">
+         <img class="responsive-img" src="{{ site.baseurl }}/posts_img/2017/6/2/2017-06-2.jpg">
+     </div>
+ </div>
