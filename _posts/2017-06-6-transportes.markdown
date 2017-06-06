@@ -5,7 +5,7 @@ categories:
 - Actividade
 - Actividade
 layout: post
-featured-img: posts_img/2017/6/66/2017-06-66.jpg
+featured-img: posts_img/2017/6/6/2017-06-66.jpg
 ---
 
  <h5 class="center header text_h2">
